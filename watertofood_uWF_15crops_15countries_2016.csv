@@ -1,0 +1,227 @@
+sep=;
+"Country Name";"Country FAO Code";"Country ISO2";"Item Name";"Item FAO Code";"Item Category";"Unit of Measure";2016
+Austria;11;AT;Apples;515;Fruits;m3/ton;251.2899932861328
+Austria;11;AT;Asparagus;367;Vegetables;m3/ton;2152.719970703125
+Austria;11;AT;"Carrots and turnips";426;Vegetables;m3/ton;88.05380249023438
+Austria;11;AT;Cherries;531;Fruits;m3/ton;687.7440185546875
+Austria;11;AT;"Chillies and peppers, green";401;Vegetables;m3/ton;49.35710144042969
+Austria;11;AT;"Cucumbers and gherkins";397;Vegetables;m3/ton;33.099998474121094
+Austria;11;AT;Grapes;560;Fruits;m3/ton;734.364990234375
+Austria;11;AT;"Lettuce and chicory";372;Vegetables;m3/ton;109.71099853515625
+Austria;11;AT;Maize;56;Cereals;m3/ton;353.3169860839844
+Austria;11;AT;"Mushrooms and truffles";449;Vegetables;m3/ton;96.66649627685547
+Austria;11;AT;"Peaches and nectarines";534;Fruits;m3/ton;170.79600524902344
+Austria;11;AT;Pears;521;Fruits;m3/ton;147.36399841308594
+Austria;11;AT;Potatoes;116;Vegetables;m3/ton;106.90499877929688
+Austria;11;AT;"Pumpkins, squash and gourds";394;Vegetables;m3/ton;87.50599670410156
+Austria;11;AT;Tomatoes;388;Vegetables;m3/ton;14.69540023803711
+Belgium;255;BE;Apples;515;Fruits;m3/ton;153.74600219726562
+Belgium;255;BE;Asparagus;367;Vegetables;m3/ton;599.791015625
+Belgium;255;BE;"Carrots and turnips";426;Vegetables;m3/ton;50.01300048828125
+Belgium;255;BE;Cherries;531;Fruits;m3/ton;1156.8599853515625
+Belgium;255;BE;"Chillies and peppers, green";401;Vegetables;m3/ton;50.92340087890625
+Belgium;255;BE;"Cucumbers and gherkins";397;Vegetables;m3/ton;15.215100288391113
+Belgium;255;BE;Grapes;560;Fruits;m3/ton;240.875
+Belgium;255;BE;"Lettuce and chicory";372;Vegetables;m3/ton;49.25080108642578
+Belgium;255;BE;Maize;56;Cereals;m3/ton;381.33099365234375
+Belgium;255;BE;"Mushrooms and truffles";449;Vegetables;m3/ton;9.142860412597656
+Belgium;255;BE;"Peaches and nectarines";534;Fruits;m3/ton;0
+Belgium;255;BE;Pears;521;Fruits;m3/ton;152.9029998779297
+Belgium;255;BE;Potatoes;116;Vegetables;m3/ton;93.0969009399414
+Belgium;255;BE;"Pumpkins, squash and gourds";394;Vegetables;m3/ton;202.07000732421875
+Belgium;255;BE;Tomatoes;388;Vegetables;m3/ton;7.1927900314331055
+France;68;FR;Apples;515;Fruits;m3/ton;188.48599243164062
+France;68;FR;Asparagus;367;Vegetables;m3/ton;1302.0799560546875
+France;68;FR;"Carrots and turnips";426;Vegetables;m3/ton;83.1509017944336
+France;68;FR;Cherries;531;Fruits;m3/ton;1474.0699462890625
+France;68;FR;"Chillies and peppers, green";401;Vegetables;m3/ton;82.70500183105469
+France;68;FR;"Cucumbers and gherkins";397;Vegetables;m3/ton;50.145198822021484
+France;68;FR;Grapes;560;Fruits;m3/ton;505.2430114746094
+France;68;FR;"Lettuce and chicory";372;Vegetables;m3/ton;115.11699676513672
+France;68;FR;Maize;56;Cereals;m3/ton;546.1510009765625
+France;68;FR;"Mushrooms and truffles";449;Vegetables;m3/ton;9.142860412597656
+France;68;FR;"Peaches and nectarines";534;Fruits;m3/ton;280.1820068359375
+France;68;FR;Pears;521;Fruits;m3/ton;278.6440124511719
+France;68;FR;Potatoes;116;Vegetables;m3/ton;97.57740020751953
+France;68;FR;"Pumpkins, squash and gourds";394;Vegetables;m3/ton;103.67500305175781
+France;68;FR;Tomatoes;388;Vegetables;m3/ton;23.850400924682617
+Germany;79;DE;Apples;515;Fruits;m3/ton;160.4149932861328
+Germany;79;DE;Asparagus;367;Vegetables;m3/ton;1057.6199951171875
+Germany;79;DE;"Carrots and turnips";426;Vegetables;m3/ton;66.43370056152344
+Germany;79;DE;Cherries;531;Fruits;m3/ton;3012.179931640625
+Germany;79;DE;"Chillies and peppers, green";401;Vegetables;m3/ton;2.8274500370025635
+Germany;79;DE;"Cucumbers and gherkins";397;Vegetables;m3/ton;40.59379959106445
+Germany;79;DE;Grapes;560;Fruits;m3/ton;308.2380065917969
+Germany;79;DE;"Lettuce and chicory";372;Vegetables;m3/ton;100.38300323486328
+Germany;79;DE;Maize;56;Cereals;m3/ton;397.1199951171875
+Germany;79;DE;"Mushrooms and truffles";449;Vegetables;m3/ton;96.66649627685547
+Germany;79;DE;"Peaches and nectarines";534;Fruits;m3/ton;527.0880126953125
+Germany;79;DE;Pears;521;Fruits;m3/ton;292.91900634765625
+Germany;79;DE;Potatoes;116;Vegetables;m3/ton;82.4520034790039
+Germany;79;DE;"Pumpkins, squash and gourds";394;Vegetables;m3/ton;60.42660140991211
+Germany;79;DE;Tomatoes;388;Vegetables;m3/ton;15.593799591064453
+Greece;84;GR;Apples;515;Fruits;m3/ton;337.8070068359375
+Greece;84;GR;Asparagus;367;Vegetables;m3/ton;1769.8800048828125
+Greece;84;GR;"Carrots and turnips";426;Vegetables;m3/ton;159.0780029296875
+Greece;84;GR;Cherries;531;Fruits;m3/ton;1419.510009765625
+Greece;84;GR;"Chillies and peppers, green";401;Vegetables;m3/ton;43.14500045776367
+Greece;84;GR;"Cucumbers and gherkins";397;Vegetables;m3/ton;39.616600036621094
+Greece;84;GR;Grapes;560;Fruits;m3/ton;407.8179931640625
+Greece;84;GR;"Lettuce and chicory";372;Vegetables;m3/ton;242.0590057373047
+Greece;84;GR;Maize;56;Cereals;m3/ton;505.5840148925781
+Greece;84;GR;"Mushrooms and truffles";449;Vegetables;m3/ton;76.1146011352539
+Greece;84;GR;"Peaches and nectarines";534;Fruits;m3/ton;395.739013671875
+Greece;84;GR;Pears;521;Fruits;m3/ton;588.010986328125
+Greece;84;GR;Potatoes;116;Vegetables;m3/ton;153.94900512695312
+Greece;84;GR;"Pumpkins, squash and gourds";394;Vegetables;m3/ton;2015.699951171875
+Greece;84;GR;Tomatoes;388;Vegetables;m3/ton;52.9557991027832
+Hungary;97;HU;Apples;515;Fruits;m3/ton;327.4519958496094
+Hungary;97;HU;Asparagus;367;Vegetables;m3/ton;1515.27001953125
+Hungary;97;HU;"Carrots and turnips";426;Vegetables;m3/ton;59.83440017700195
+Hungary;97;HU;Cherries;531;Fruits;m3/ton;1372.27001953125
+Hungary;97;HU;"Chillies and peppers, green";401;Vegetables;m3/ton;82.02040100097656
+Hungary;97;HU;"Cucumbers and gherkins";397;Vegetables;m3/ton;74.35279846191406
+Hungary;97;HU;Grapes;560;Fruits;m3/ton;651.7349853515625
+Hungary;97;HU;"Lettuce and chicory";372;Vegetables;m3/ton;90.30229949951172
+Hungary;97;HU;Maize;56;Cereals;m3/ton;601.5549926757812
+Hungary;97;HU;"Mushrooms and truffles";449;Vegetables;m3/ton;135.16700744628906
+Hungary;97;HU;"Peaches and nectarines";534;Fruits;m3/ton;738.8070068359375
+Hungary;97;HU;Pears;521;Fruits;m3/ton;535.8469848632812
+Hungary;97;HU;Potatoes;116;Vegetables;m3/ton;142.7740020751953
+Hungary;97;HU;"Pumpkins, squash and gourds";394;Vegetables;m3/ton;150.27999877929688
+Hungary;97;HU;Tomatoes;388;Vegetables;m3/ton;45.04069900512695
+Italy;106;IT;Apples;515;Fruits;m3/ton;163.46200561523438
+Italy;106;IT;Asparagus;367;Vegetables;m3/ton;1085.510009765625
+Italy;106;IT;"Carrots and turnips";426;Vegetables;m3/ton;97.85289764404297
+Italy;106;IT;Cherries;531;Fruits;m3/ton;2257.3701171875
+Italy;106;IT;"Chillies and peppers, green";401;Vegetables;m3/ton;172.1280059814453
+Italy;106;IT;"Cucumbers and gherkins";397;Vegetables;m3/ton;138.07899475097656
+Italy;106;IT;Grapes;560;Fruits;m3/ton;334.76800537109375
+Italy;106;IT;"Lettuce and chicory";372;Vegetables;m3/ton;155.6020050048828
+Italy;106;IT;Maize;56;Cereals;m3/ton;461.5790100097656
+Italy;106;IT;"Mushrooms and truffles";449;Vegetables;m3/ton;76.1146011352539
+Italy;106;IT;"Peaches and nectarines";534;Fruits;m3/ton;327.00299072265625
+Italy;106;IT;Pears;521;Fruits;m3/ton;328.7439880371094
+Italy;106;IT;Potatoes;116;Vegetables;m3/ton;147.02200317382812
+Italy;106;IT;"Pumpkins, squash and gourds";394;Vegetables;m3/ton;99.57980346679688
+Italy;106;IT;Tomatoes;388;Vegetables;m3/ton;79.22930145263672
+Morocco;143;MA;Apples;515;Fruits;m3/ton;1336.3199462890625
+Morocco;143;MA;Asparagus;367;Vegetables;m3/ton;1873.81005859375
+Morocco;143;MA;"Carrots and turnips";426;Vegetables;m3/ton;220.32000732421875
+Morocco;143;MA;Cherries;531;Fruits;m3/ton;4152.3798828125
+Morocco;143;MA;"Chillies and peppers, green";401;Vegetables;m3/ton;58.37889862060547
+Morocco;143;MA;"Cucumbers and gherkins";397;Vegetables;m3/ton;93.98660278320312
+Morocco;143;MA;Grapes;560;Fruits;m3/ton;951.6329956054688
+Morocco;143;MA;"Lettuce and chicory";372;Vegetables;m3/ton;96.5
+Morocco;143;MA;Maize;56;Cereals;m3/ton;4531.6298828125
+Morocco;143;MA;"Mushrooms and truffles";449;Vegetables;m3/ton;84.85880279541016
+Morocco;143;MA;"Peaches and nectarines";534;Fruits;m3/ton;1011.1500244140625
+Morocco;143;MA;Pears;521;Fruits;m3/ton;1415.719970703125
+Morocco;143;MA;Potatoes;116;Vegetables;m3/ton;115.14299774169922
+Morocco;143;MA;"Pumpkins, squash and gourds";394;Vegetables;m3/ton;63.14080047607422
+Morocco;143;MA;Tomatoes;388;Vegetables;m3/ton;56.448001861572266
+Netherlands;150;NL;Apples;515;Fruits;m3/ton;113.1719970703125
+Netherlands;150;NL;Asparagus;367;Vegetables;m3/ton;761.0360107421875
+Netherlands;150;NL;"Carrots and turnips";426;Vegetables;m3/ton;51.3473014831543
+Netherlands;150;NL;Cherries;531;Fruits;m3/ton;12079.7998046875
+Netherlands;150;NL;"Chillies and peppers, green";401;Vegetables;m3/ton;10.206700325012207
+Netherlands;150;NL;"Cucumbers and gherkins";397;Vegetables;m3/ton;4.322619915008545
+Netherlands;150;NL;Grapes;560;Fruits;m3/ton;21696.099609375
+Netherlands;150;NL;"Lettuce and chicory";372;Vegetables;m3/ton;81.37190246582031
+Netherlands;150;NL;Maize;56;Cereals;m3/ton;315.5610046386719
+Netherlands;150;NL;"Mushrooms and truffles";449;Vegetables;m3/ton;86.51920318603516
+Netherlands;150;NL;"Peaches and nectarines";534;Fruits;m3/ton;0
+Netherlands;150;NL;Pears;521;Fruits;m3/ton;123.35299682617188
+Netherlands;150;NL;Potatoes;116;Vegetables;m3/ton;82.84259796142578
+Netherlands;150;NL;"Pumpkins, squash and gourds";394;Vegetables;m3/ton;49.247798919677734
+Netherlands;150;NL;Tomatoes;388;Vegetables;m3/ton;6.629479885101318
+Poland;173;PL;Apples;515;Fruits;m3/ton;257.9119873046875
+Poland;173;PL;Asparagus;367;Vegetables;m3/ton;417.32501220703125
+Poland;173;PL;"Carrots and turnips";426;Vegetables;m3/ton;41.97209930419922
+Poland;173;PL;Cherries;531;Fruits;m3/ton;927.6820068359375
+Poland;173;PL;"Chillies and peppers, green";401;Vegetables;m3/ton;0
+Poland;173;PL;"Cucumbers and gherkins";397;Vegetables;m3/ton;92.06009674072266
+Poland;173;PL;Grapes;560;Fruits;m3/ton;0
+Poland;173;PL;"Lettuce and chicory";372;Vegetables;m3/ton;143.4550018310547
+Poland;173;PL;Maize;56;Cereals;m3/ton;540.7869873046875
+Poland;173;PL;"Mushrooms and truffles";449;Vegetables;m3/ton;979.5050048828125
+Poland;173;PL;"Peaches and nectarines";534;Fruits;m3/ton;1056.489990234375
+Poland;173;PL;Pears;521;Fruits;m3/ton;493.6629943847656
+Poland;173;PL;Potatoes;116;Vegetables;m3/ton;123.37799835205078
+Poland;173;PL;"Pumpkins, squash and gourds";394;Vegetables;m3/ton;80.99169921875
+Poland;173;PL;Tomatoes;388;Vegetables;m3/ton;49.219600677490234
+Portugal;174;PT;Apples;515;Fruits;m3/ton;415.39898681640625
+Portugal;174;PT;Asparagus;367;Vegetables;m3/ton;0
+Portugal;174;PT;"Carrots and turnips";426;Vegetables;m3/ton;122.91799926757812
+Portugal;174;PT;Cherries;531;Fruits;m3/ton;5641.66015625
+Portugal;174;PT;"Chillies and peppers, green";401;Vegetables;m3/ton;139.56500244140625
+Portugal;174;PT;"Cucumbers and gherkins";397;Vegetables;m3/ton;82.84549713134766
+Portugal;174;PT;Grapes;560;Fruits;m3/ton;1098.550048828125
+Portugal;174;PT;"Lettuce and chicory";372;Vegetables;m3/ton;104.79199981689453
+Portugal;174;PT;Maize;56;Cereals;m3/ton;928.7839965820312
+Portugal;174;PT;"Mushrooms and truffles";449;Vegetables;m3/ton;84.85880279541016
+Portugal;174;PT;"Peaches and nectarines";534;Fruits;m3/ton;755.6339721679688
+Portugal;174;PT;Pears;521;Fruits;m3/ton;591.8300170898438
+Portugal;174;PT;Potatoes;116;Vegetables;m3/ton;309.40399169921875
+Portugal;174;PT;"Pumpkins, squash and gourds";394;Vegetables;m3/ton;157.531005859375
+Portugal;174;PT;Tomatoes;388;Vegetables;m3/ton;47.931400299072266
+Romania;183;RO;Apples;515;Fruits;m3/ton;655.760009765625
+Romania;183;RO;Asparagus;367;Vegetables;m3/ton;0
+Romania;183;RO;"Carrots and turnips";426;Vegetables;m3/ton;102.76499938964844
+Romania;183;RO;Cherries;531;Fruits;m3/ton;458.5840148925781
+Romania;183;RO;"Chillies and peppers, green";401;Vegetables;m3/ton;296.1889953613281
+Romania;183;RO;"Cucumbers and gherkins";397;Vegetables;m3/ton;195.00399780273438
+Romania;183;RO;Grapes;560;Fruits;m3/ton;978.1610107421875
+Romania;183;RO;"Lettuce and chicory";372;Vegetables;m3/ton;225.9969940185547
+Romania;183;RO;Maize;56;Cereals;m3/ton;820.1430053710938
+Romania;183;RO;"Mushrooms and truffles";449;Vegetables;m3/ton;135.16700744628906
+Romania;183;RO;"Peaches and nectarines";534;Fruits;m3/ton;407.2030029296875
+Romania;183;RO;Pears;521;Fruits;m3/ton;329.0840148925781
+Romania;183;RO;Potatoes;116;Vegetables;m3/ton;261.135986328125
+Romania;183;RO;"Pumpkins, squash and gourds";394;Vegetables;m3/ton;443.4049987792969
+Romania;183;RO;Tomatoes;388;Vegetables;m3/ton;255.9770050048828
+Serbia;272;RS;Apples;515;Fruits;m3/ton;412.8330078125
+Serbia;272;RS;Asparagus;367;Vegetables;m3/ton;0
+Serbia;272;RS;"Carrots and turnips";426;Vegetables;m3/ton;115.24099731445312
+Serbia;272;RS;Cherries;531;Fruits;m3/ton;1270.9000244140625
+Serbia;272;RS;"Chillies and peppers, green";401;Vegetables;m3/ton;252.23199462890625
+Serbia;272;RS;"Cucumbers and gherkins";397;Vegetables;m3/ton;245.177001953125
+Serbia;272;RS;Grapes;560;Fruits;m3/ton;635.656005859375
+Serbia;272;RS;"Lettuce and chicory";372;Vegetables;m3/ton;0
+Serbia;272;RS;Maize;56;Cereals;m3/ton;560.5850219726562
+Serbia;272;RS;"Mushrooms and truffles";449;Vegetables;m3/ton;135.16700744628906
+Serbia;272;RS;"Peaches and nectarines";534;Fruits;m3/ton;518.6740112304688
+Serbia;272;RS;Pears;521;Fruits;m3/ton;762.02001953125
+Serbia;272;RS;Potatoes;116;Vegetables;m3/ton;223.9219970703125
+Serbia;272;RS;"Pumpkins, squash and gourds";394;Vegetables;m3/ton;0
+Serbia;272;RS;Tomatoes;388;Vegetables;m3/ton;254.63400268554688
+Spain;203;ES;Apples;515;Fruits;m3/ton;445.5849914550781
+Spain;203;ES;Asparagus;367;Vegetables;m3/ton;1921
+Spain;203;ES;"Carrots and turnips";426;Vegetables;m3/ton;106.64199829101562
+Spain;203;ES;Cherries;531;Fruits;m3/ton;2309.409912109375
+Spain;203;ES;"Chillies and peppers, green";401;Vegetables;m3/ton;29.15679931640625
+Spain;203;ES;"Cucumbers and gherkins";397;Vegetables;m3/ton;46.28450012207031
+Spain;203;ES;Grapes;560;Fruits;m3/ton;705.1719970703125
+Spain;203;ES;"Lettuce and chicory";372;Vegetables;m3/ton;124.38600158691406
+Spain;203;ES;Maize;56;Cereals;m3/ton;609.552001953125
+Spain;203;ES;"Mushrooms and truffles";449;Vegetables;m3/ton;84.85880279541016
+Spain;203;ES;"Peaches and nectarines";534;Fruits;m3/ton;466.59100341796875
+Spain;203;ES;Pears;521;Fruits;m3/ton;493.9729919433594
+Spain;203;ES;Potatoes;116;Vegetables;m3/ton;125.66300201416016
+Spain;203;ES;"Pumpkins, squash and gourds";394;Vegetables;m3/ton;71.83609771728516
+Spain;203;ES;Tomatoes;388;Vegetables;m3/ton;41.345001220703125
+Turkey;223;TR;Apples;515;Fruits;m3/ton;262.4200134277344
+Turkey;223;TR;Asparagus;367;Vegetables;m3/ton;1767.81005859375
+Turkey;223;TR;"Carrots and turnips";426;Vegetables;m3/ton;92.82939910888672
+Turkey;223;TR;Cherries;531;Fruits;m3/ton;657.968994140625
+Turkey;223;TR;"Chillies and peppers, green";401;Vegetables;m3/ton;147.33099365234375
+Turkey;223;TR;"Cucumbers and gherkins";397;Vegetables;m3/ton;98.10279846191406
+Turkey;223;TR;Grapes;560;Fruits;m3/ton;383.4179992675781
+Turkey;223;TR;"Lettuce and chicory";372;Vegetables;m3/ton;113.76799774169922
+Turkey;223;TR;Maize;56;Cereals;m3/ton;419.552001953125
+Turkey;223;TR;"Mushrooms and truffles";449;Vegetables;m3/ton;141.75599670410156
+Turkey;223;TR;"Peaches and nectarines";534;Fruits;m3/ton;279.4020080566406
+Turkey;223;TR;Pears;521;Fruits;m3/ton;519.427001953125
+Turkey;223;TR;Potatoes;116;Vegetables;m3/ton;104.87100219726562
+Turkey;223;TR;"Pumpkins, squash and gourds";394;Vegetables;m3/ton;738.0700073242188
+Turkey;223;TR;Tomatoes;388;Vegetables;m3/ton;75.18910217285156

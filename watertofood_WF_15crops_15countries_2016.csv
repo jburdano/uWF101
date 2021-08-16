@@ -1,0 +1,227 @@
+sep=;
+"Country Name";"Country FAO Code";"Country ISO2";"Item Name";"Item FAO Code";"Item Category";"Unit of Measure";2016
+Austria;11;AT;Apples;515;Fruits;m3;25547900
+Austria;11;AT;Asparagus;367;Vegetables;m3;5528200
+Austria;11;AT;"Carrots and turnips";426;Vegetables;m3;8671180
+Austria;11;AT;Cherries;531;Fruits;m3;2429800
+Austria;11;AT;"Chillies and peppers, green";401;Vegetables;m3;717997
+Austria;11;AT;"Cucumbers and gherkins";397;Vegetables;m3;1570600
+Austria;11;AT;Grapes;560;Fruits;m3;191182000
+Austria;11;AT;"Lettuce and chicory";372;Vegetables;m3;5344660
+Austria;11;AT;Maize;56;Cereals;m3;770086016
+Austria;11;AT;"Mushrooms and truffles";449;Vegetables;m3;135333
+Austria;11;AT;"Peaches and nectarines";534;Fruits;m3;212812
+Austria;11;AT;Pears;521;Fruits;m3;3455680
+Austria;11;AT;Potatoes;116;Vegetables;m3;82024000
+Austria;11;AT;"Pumpkins, squash and gourds";394;Vegetables;m3;2073980
+Austria;11;AT;Tomatoes;388;Vegetables;m3;809245
+Belgium;255;BE;Apples;515;Fruits;m3;36629200
+Belgium;255;BE;Asparagus;367;Vegetables;m3;2841210
+Belgium;255;BE;"Carrots and turnips";426;Vegetables;m3;19275000
+Belgium;255;BE;Cherries;531;Fruits;m3;6532760
+Belgium;255;BE;"Chillies and peppers, green";401;Vegetables;m3;1377370
+Belgium;255;BE;"Cucumbers and gherkins";397;Vegetables;m3;358773
+Belgium;255;BE;Grapes;560;Fruits;m3;542932
+Belgium;255;BE;"Lettuce and chicory";372;Vegetables;m3;2589020
+Belgium;255;BE;Maize;56;Cereals;m3;183228000
+Belgium;255;BE;"Mushrooms and truffles";449;Vegetables;m3;269257
+Belgium;255;BE;"Peaches and nectarines";534;Fruits;m3;0
+Belgium;255;BE;Pears;521;Fruits;m3;50695000
+Belgium;255;BE;Potatoes;116;Vegetables;m3;316788992
+Belgium;255;BE;"Pumpkins, squash and gourds";394;Vegetables;m3;2040900
+Belgium;255;BE;Tomatoes;388;Vegetables;m3;1866780
+France;68;FR;Apples;515;Fruits;m3;343000000
+France;68;FR;Asparagus;367;Vegetables;m3;26954400
+France;68;FR;"Carrots and turnips";426;Vegetables;m3;48102000
+France;68;FR;Cherries;531;Fruits;m3;51198800
+France;68;FR;"Chillies and peppers, green";401;Vegetables;m3;3641910
+France;68;FR;"Cucumbers and gherkins";397;Vegetables;m3;6877460
+France;68;FR;Grapes;560;Fruits;m3;3156270080
+France;68;FR;"Lettuce and chicory";372;Vegetables;m3;26290200
+France;68;FR;Maize;56;Cereals;m3;6625489920
+France;68;FR;"Mushrooms and truffles";449;Vegetables;m3;932106
+France;68;FR;"Peaches and nectarines";534;Fruits;m3;58210300
+France;68;FR;Pears;521;Fruits;m3;36119800
+France;68;FR;Potatoes;116;Vegetables;m3;666910976
+France;68;FR;"Pumpkins, squash and gourds";394;Vegetables;m3;9905630
+France;68;FR;Tomatoes;388;Vegetables;m3;15286600
+Germany;79;DE;Apples;515;Fruits;m3;165694000
+Germany;79;DE;Asparagus;367;Vegetables;m3;126929000
+Germany;79;DE;"Carrots and turnips";426;Vegetables;m3;42625700
+Germany;79;DE;Cherries;531;Fruits;m3;88476704
+Germany;79;DE;"Chillies and peppers, green";401;Vegetables;m3;26507.30078125
+Germany;79;DE;"Cucumbers and gherkins";397;Vegetables;m3;10591500
+Germany;79;DE;Grapes;560;Fruits;m3;377768000
+Germany;79;DE;"Lettuce and chicory";372;Vegetables;m3;33430800
+Germany;79;DE;Maize;56;Cereals;m3;1595549952
+Germany;79;DE;"Mushrooms and truffles";449;Vegetables;m3;6973620
+Germany;79;DE;"Peaches and nectarines";534;Fruits;m3;322051
+Germany;79;DE;Pears;521;Fruits;m3;10142300
+Germany;79;DE;Potatoes;116;Vegetables;m3;888180992
+Germany;79;DE;"Pumpkins, squash and gourds";394;Vegetables;m3;7858670
+Germany;79;DE;Tomatoes;388;Vegetables;m3;1329950
+Greece;84;GR;Apples;515;Fruits;m3;86641696
+Greece;84;GR;Asparagus;367;Vegetables;m3;8258260
+Greece;84;GR;"Carrots and turnips";426;Vegetables;m3;7244390
+Greece;84;GR;Cherries;531;Fruits;m3;102003000
+Greece;84;GR;"Chillies and peppers, green";401;Vegetables;m3;4842460
+Greece;84;GR;"Cucumbers and gherkins";397;Vegetables;m3;6507730
+Greece;84;GR;Grapes;560;Fruits;m3;403857984
+Greece;84;GR;"Lettuce and chicory";372;Vegetables;m3;16834500
+Greece;84;GR;Maize;56;Cereals;m3;945286976
+Greece;84;GR;"Mushrooms and truffles";449;Vegetables;m3;274089
+Greece;84;GR;"Peaches and nectarines";534;Fruits;m3;335582016
+Greece;84;GR;Pears;521;Fruits;m3;43795100
+Greece;84;GR;Potatoes;116;Vegetables;m3;97636000
+Greece;84;GR;"Pumpkins, squash and gourds";394;Vegetables;m3;1207400
+Greece;84;GR;Tomatoes;388;Vegetables;m3;55304200
+Hungary;97;HU;Apples;515;Fruits;m3;165862000
+Hungary;97;HU;Asparagus;367;Vegetables;m3;8396110
+Hungary;97;HU;"Carrots and turnips";426;Vegetables;m3;6466900
+Hungary;97;HU;Cherries;531;Fruits;m3;12539800
+Hungary;97;HU;"Chillies and peppers, green";401;Vegetables;m3;10074200
+Hungary;97;HU;"Cucumbers and gherkins";397;Vegetables;m3;2225750
+Hungary;97;HU;Grapes;560;Fruits;m3;275662016
+Hungary;97;HU;"Lettuce and chicory";372;Vegetables;m3;1089140
+Hungary;97;HU;Maize;56;Cereals;m3;4455600128
+Hungary;97;HU;"Mushrooms and truffles";449;Vegetables;m3;4367370
+Hungary;97;HU;"Peaches and nectarines";534;Fruits;m3;29294400
+Hungary;97;HU;Pears;521;Fruits;m3;17541500
+Hungary;97;HU;Potatoes;116;Vegetables;m3;57781100
+Hungary;97;HU;"Pumpkins, squash and gourds";394;Vegetables;m3;2140280
+Hungary;97;HU;Tomatoes;388;Vegetables;m3;8954130
+Italy;106;IT;Apples;515;Fruits;m3;401400000
+Italy;106;IT;Asparagus;367;Vegetables;m3;47457500
+Italy;106;IT;"Carrots and turnips";426;Vegetables;m3;51944400
+Italy;106;IT;Cherries;531;Fruits;m3;214196992
+Italy;106;IT;"Chillies and peppers, green";401;Vegetables;m3;46690700
+Italy;106;IT;"Cucumbers and gherkins";397;Vegetables;m3;8271370
+Italy;106;IT;Grapes;560;Fruits;m3;2745740032
+Italy;106;IT;"Lettuce and chicory";372;Vegetables;m3;114518000
+Italy;106;IT;Maize;56;Cereals;m3;3156969984
+Italy;106;IT;"Mushrooms and truffles";449;Vegetables;m3;52033400
+Italy;106;IT;"Peaches and nectarines";534;Fruits;m3;466820992
+Italy;106;IT;Pears;521;Fruits;m3;230755008
+Italy;106;IT;Potatoes;116;Vegetables;m3;201262000
+Italy;106;IT;"Pumpkins, squash and gourds";394;Vegetables;m3;57775000
+Italy;106;IT;Tomatoes;388;Vegetables;m3;510044000
+Morocco;143;MA;Apples;515;Fruits;m3;543054016
+Morocco;143;MA;Asparagus;367;Vegetables;m3;693311
+Morocco;143;MA;"Carrots and turnips";426;Vegetables;m3;86740896
+Morocco;143;MA;Cherries;531;Fruits;m3;33605200
+Morocco;143;MA;"Chillies and peppers, green";401;Vegetables;m3;10137100
+Morocco;143;MA;"Cucumbers and gherkins";397;Vegetables;m3;3983430
+Morocco;143;MA;Grapes;560;Fruits;m3;347217984
+Morocco;143;MA;"Lettuce and chicory";372;Vegetables;m3;478930
+Morocco;143;MA;Maize;56;Cereals;m3;583505984
+Morocco;143;MA;"Mushrooms and truffles";449;Vegetables;m3;178628
+Morocco;143;MA;"Peaches and nectarines";534;Fruits;m3;96145000
+Morocco;143;MA;Pears;521;Fruits;m3;39291900
+Morocco;143;MA;Potatoes;116;Vegetables;m3;200766000
+Morocco;143;MA;"Pumpkins, squash and gourds";394;Vegetables;m3;11949800
+Morocco;143;MA;Tomatoes;388;Vegetables;m3;69501504
+Netherlands;150;NL;Apples;515;Fruits;m3;35875700
+Netherlands;150;NL;Asparagus;367;Vegetables;m3;14155300
+Netherlands;150;NL;"Carrots and turnips";426;Vegetables;m3;27815500
+Netherlands;150;NL;Cherries;531;Fruits;m3;4759440
+Netherlands;150;NL;"Chillies and peppers, green";401;Vegetables;m3;3725450
+Netherlands;150;NL;"Cucumbers and gherkins";397;Vegetables;m3;1599370
+Netherlands;150;NL;Grapes;560;Fruits;m3;7116320
+Netherlands;150;NL;"Lettuce and chicory";372;Vegetables;m3;9618160
+Netherlands;150;NL;Maize;56;Cereals;m3;26709400
+Netherlands;150;NL;"Mushrooms and truffles";449;Vegetables;m3;25955800
+Netherlands;150;NL;"Peaches and nectarines";534;Fruits;m3;0
+Netherlands;150;NL;Pears;521;Fruits;m3;46134100
+Netherlands;150;NL;Potatoes;116;Vegetables;m3;541321984
+Netherlands;150;NL;"Pumpkins, squash and gourds";394;Vegetables;m3;832287
+Netherlands;150;NL;Tomatoes;388;Vegetables;m3;5966530
+Poland;173;PL;Apples;515;Fruits;m3;929582976
+Poland;173;PL;Asparagus;367;Vegetables;m3;975706
+Poland;173;PL;"Carrots and turnips";426;Vegetables;m3;34501200
+Poland;173;PL;Cherries;531;Fruits;m3;49884300
+Poland;173;PL;"Chillies and peppers, green";401;Vegetables;m3;0
+Poland;173;PL;"Cucumbers and gherkins";397;Vegetables;m3;49533600
+Poland;173;PL;Grapes;560;Fruits;m3;0
+Poland;173;PL;"Lettuce and chicory";372;Vegetables;m3;5858290
+Poland;173;PL;Maize;56;Cereals;m3;2348590080
+Poland;173;PL;"Mushrooms and truffles";449;Vegetables;m3;254808000
+Poland;173;PL;"Peaches and nectarines";534;Fruits;m3;11223100
+Poland;173;PL;Pears;521;Fruits;m3;40218200
+Poland;173;PL;Potatoes;116;Vegetables;m3;1094669952
+Poland;173;PL;"Pumpkins, squash and gourds";394;Vegetables;m3;7233940
+Poland;173;PL;Tomatoes;388;Vegetables;m3;42672400
+Portugal;174;PT;Apples;515;Fruits;m3;100365000
+Portugal;174;PT;Asparagus;367;Vegetables;m3;0
+Portugal;174;PT;"Carrots and turnips";426;Vegetables;m3;15696200
+Portugal;174;PT;Cherries;531;Fruits;m3;41533900
+Portugal;174;PT;"Chillies and peppers, green";401;Vegetables;m3;124353
+Portugal;174;PT;"Cucumbers and gherkins";397;Vegetables;m3;825307
+Portugal;174;PT;Grapes;560;Fruits;m3;850169984
+Portugal;174;PT;"Lettuce and chicory";372;Vegetables;m3;5447940
+Portugal;174;PT;Maize;56;Cereals;m3;660025984
+Portugal;174;PT;"Mushrooms and truffles";449;Vegetables;m3;1026200
+Portugal;174;PT;"Peaches and nectarines";534;Fruits;m3;24442500
+Portugal;174;PT;Pears;521;Fruits;m3;81557104
+Portugal;174;PT;Potatoes;116;Vegetables;m3;127769000
+Portugal;174;PT;"Pumpkins, squash and gourds";394;Vegetables;m3;2294760
+Portugal;174;PT;Tomatoes;388;Vegetables;m3;81189104
+Romania;183;RO;Apples;515;Fruits;m3;306409984
+Romania;183;RO;Asparagus;367;Vegetables;m3;0
+Romania;183;RO;"Carrots and turnips";426;Vegetables;m3;19717900
+Romania;183;RO;Cherries;531;Fruits;m3;33859100
+Romania;183;RO;"Chillies and peppers, green";401;Vegetables;m3;59795000
+Romania;183;RO;"Cucumbers and gherkins";397;Vegetables;m3;36362500
+Romania;183;RO;Grapes;560;Fruits;m3;720798976
+Romania;183;RO;"Lettuce and chicory";372;Vegetables;m3;768841
+Romania;183;RO;Maize;56;Cereals;m3;8813570048
+Romania;183;RO;"Mushrooms and truffles";449;Vegetables;m3;1962490
+Romania;183;RO;"Peaches and nectarines";534;Fruits;m3;9629130
+Romania;183;RO;Pears;521;Fruits;m3;17359500
+Romania;183;RO;Potatoes;116;Vegetables;m3;702385984
+Romania;183;RO;"Pumpkins, squash and gourds";394;Vegetables;m3;11334300
+Romania;183;RO;Tomatoes;388;Vegetables;m3;160543008
+Serbia;272;RS;Apples;515;Fruits;m3;135562000
+Serbia;272;RS;Asparagus;367;Vegetables;m3;0
+Serbia;272;RS;"Carrots and turnips";426;Vegetables;m3;5590230
+Serbia;272;RS;Cherries;531;Fruits;m3;22094700
+Serbia;272;RS;"Chillies and peppers, green";401;Vegetables;m3;57419400
+Serbia;272;RS;"Cucumbers and gherkins";397;Vegetables;m3;13499200
+Serbia;272;RS;Grapes;560;Fruits;m3;92697104
+Serbia;272;RS;"Lettuce and chicory";372;Vegetables;m3;0
+Serbia;272;RS;Maize;56;Cereals;m3;4135290112
+Serbia;272;RS;"Mushrooms and truffles";449;Vegetables;m3;730306
+Serbia;272;RS;"Peaches and nectarines";534;Fruits;m3;49335800
+Serbia;272;RS;Pears;521;Fruits;m3;48649600
+Serbia;272;RS;Potatoes;116;Vegetables;m3;159958000
+Serbia;272;RS;"Pumpkins, squash and gourds";394;Vegetables;m3;0
+Serbia;272;RS;Tomatoes;388;Vegetables;m3;40857500
+Spain;203;ES;Apples;515;Fruits;m3;264219008
+Spain;203;ES;Asparagus;367;Vegetables;m3;115031000
+Spain;203;ES;"Carrots and turnips";426;Vegetables;m3;45578100
+Spain;203;ES;Cherries;531;Fruits;m3;217403008
+Spain;203;ES;"Chillies and peppers, green";401;Vegetables;m3;31567800
+Spain;203;ES;"Cucumbers and gherkins";397;Vegetables;m3;35671600
+Spain;203;ES;Grapes;560;Fruits;m3;4184659968
+Spain;203;ES;"Lettuce and chicory";372;Vegetables;m3;115689000
+Spain;203;ES;Maize;56;Cereals;m3;2709920000
+Spain;203;ES;"Mushrooms and truffles";449;Vegetables;m3;16718000
+Spain;203;ES;"Peaches and nectarines";534;Fruits;m3;713846976
+Spain;203;ES;Pears;521;Fruits;m3;180859008
+Spain;203;ES;Potatoes;116;Vegetables;m3;263448992
+Spain;203;ES;"Pumpkins, squash and gourds";394;Vegetables;m3;34222400
+Spain;203;ES;Tomatoes;388;Vegetables;m3;193156000
+Turkey;223;TR;Apples;515;Fruits;m3;767795008
+Turkey;223;TR;Asparagus;367;Vegetables;m3;256333
+Turkey;223;TR;"Carrots and turnips";426;Vegetables;m3;51495800
+Turkey;223;TR;Cherries;531;Fruits;m3;394551008
+Turkey;223;TR;"Chillies and peppers, green";401;Vegetables;m3;362112992
+Turkey;223;TR;"Cucumbers and gherkins";397;Vegetables;m3;177731008
+Turkey;223;TR;Grapes;560;Fruits;m3;1533670016
+Turkey;223;TR;"Lettuce and chicory";372;Vegetables;m3;54431300
+Turkey;223;TR;Maize;56;Cereals;m3;2685129984
+Turkey;223;TR;"Mushrooms and truffles";449;Vegetables;m3;5708800
+Turkey;223;TR;"Peaches and nectarines";534;Fruits;m3;188355008
+Turkey;223;TR;Pears;521;Fruits;m3;245300000
+Turkey;223;TR;Potatoes;116;Vegetables;m3;498137984
+Turkey;223;TR;"Pumpkins, squash and gourds";394;Vegetables;m3;361654016
+Turkey;223;TR;Tomatoes;388;Vegetables;m3;947382976

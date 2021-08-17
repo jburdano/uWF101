@@ -1,0 +1,1337 @@
+sep=;
+"Country Name";"Country FAO Code";"Country ISO2";"Item Name";"Item FAO Code";"Item Category";"Unit of Measure";Value
+Austria;11;AT;Cattle;866;"Live animals";m3/ton;0
+Belgium;255;BE;Cattle;866;"Live animals";m3/ton;0
+France;68;FR;Cattle;866;"Live animals";m3/ton;0
+Germany;79;DE;Cattle;866;"Live animals";m3/ton;0
+Greece;84;GR;Cattle;866;"Live animals";m3/ton;0
+Hungary;97;HU;Cattle;866;"Live animals";m3/ton;0
+Italy;106;IT;Cattle;866;"Live animals";m3/ton;0
+Morocco;143;MA;Cattle;866;"Live animals";m3/ton;0
+Netherlands;150;NL;Cattle;866;"Live animals";m3/ton;0
+Poland;173;PL;Cattle;866;"Live animals";m3/ton;0
+Portugal;174;PT;Cattle;866;"Live animals";m3/ton;0
+Romania;183;RO;Cattle;866;"Live animals";m3/ton;0
+Serbia;272;RS;Cattle;866;"Live animals";m3/ton;0
+Spain;203;ES;Cattle;866;"Live animals";m3/ton;0
+Turkey;223;TR;Cattle;866;"Live animals";m3/ton;0
+Austria;11;AT;"Cattle meat";867;Meat;m3/ton;0
+Belgium;255;BE;"Cattle meat";867;Meat;m3/ton;0
+France;68;FR;"Cattle meat";867;Meat;m3/ton;0
+Germany;79;DE;"Cattle meat";867;Meat;m3/ton;0
+Greece;84;GR;"Cattle meat";867;Meat;m3/ton;0
+Hungary;97;HU;"Cattle meat";867;Meat;m3/ton;0
+Italy;106;IT;"Cattle meat";867;Meat;m3/ton;0
+Morocco;143;MA;"Cattle meat";867;Meat;m3/ton;0
+Netherlands;150;NL;"Cattle meat";867;Meat;m3/ton;0
+Poland;173;PL;"Cattle meat";867;Meat;m3/ton;0
+Portugal;174;PT;"Cattle meat";867;Meat;m3/ton;0
+Romania;183;RO;"Cattle meat";867;Meat;m3/ton;0
+Serbia;272;RS;"Cattle meat";867;Meat;m3/ton;0
+Spain;203;ES;"Cattle meat";867;Meat;m3/ton;0
+Turkey;223;TR;"Cattle meat";867;Meat;m3/ton;0
+Austria;11;AT;"Offals of cattle, edible";868;Meat;m3/ton;0
+Belgium;255;BE;"Offals of cattle, edible";868;Meat;m3/ton;0
+France;68;FR;"Offals of cattle, edible";868;Meat;m3/ton;0
+Germany;79;DE;"Offals of cattle, edible";868;Meat;m3/ton;0
+Greece;84;GR;"Offals of cattle, edible";868;Meat;m3/ton;0
+Hungary;97;HU;"Offals of cattle, edible";868;Meat;m3/ton;0
+Italy;106;IT;"Offals of cattle, edible";868;Meat;m3/ton;0
+Morocco;143;MA;"Offals of cattle, edible";868;Meat;m3/ton;0
+Netherlands;150;NL;"Offals of cattle, edible";868;Meat;m3/ton;0
+Poland;173;PL;"Offals of cattle, edible";868;Meat;m3/ton;0
+Portugal;174;PT;"Offals of cattle, edible";868;Meat;m3/ton;0
+Romania;183;RO;"Offals of cattle, edible";868;Meat;m3/ton;0
+Serbia;272;RS;"Offals of cattle, edible";868;Meat;m3/ton;0
+Spain;203;ES;"Offals of cattle, edible";868;Meat;m3/ton;0
+Turkey;223;TR;"Offals of cattle, edible";868;Meat;m3/ton;0
+Austria;11;AT;"Fat, cattle";869;Meat;m3/ton;0
+Belgium;255;BE;"Fat, cattle";869;Meat;m3/ton;0
+France;68;FR;"Fat, cattle";869;Meat;m3/ton;0
+Germany;79;DE;"Fat, cattle";869;Meat;m3/ton;0
+Greece;84;GR;"Fat, cattle";869;Meat;m3/ton;0
+Hungary;97;HU;"Fat, cattle";869;Meat;m3/ton;0
+Italy;106;IT;"Fat, cattle";869;Meat;m3/ton;0
+Morocco;143;MA;"Fat, cattle";869;Meat;m3/ton;0
+Netherlands;150;NL;"Fat, cattle";869;Meat;m3/ton;0
+Poland;173;PL;"Fat, cattle";869;Meat;m3/ton;0
+Portugal;174;PT;"Fat, cattle";869;Meat;m3/ton;0
+Romania;183;RO;"Fat, cattle";869;Meat;m3/ton;0
+Serbia;272;RS;"Fat, cattle";869;Meat;m3/ton;0
+Spain;203;ES;"Fat, cattle";869;Meat;m3/ton;0
+Turkey;223;TR;"Fat, cattle";869;Meat;m3/ton;0
+Austria;11;AT;"Meat-Cattle, boneless";870;Meat;m3/ton;0
+Belgium;255;BE;"Meat-Cattle, boneless";870;Meat;m3/ton;0
+France;68;FR;"Meat-Cattle, boneless";870;Meat;m3/ton;0
+Germany;79;DE;"Meat-Cattle, boneless";870;Meat;m3/ton;0
+Greece;84;GR;"Meat-Cattle, boneless";870;Meat;m3/ton;0
+Hungary;97;HU;"Meat-Cattle, boneless";870;Meat;m3/ton;0
+Italy;106;IT;"Meat-Cattle, boneless";870;Meat;m3/ton;0
+Morocco;143;MA;"Meat-Cattle, boneless";870;Meat;m3/ton;0
+Netherlands;150;NL;"Meat-Cattle, boneless";870;Meat;m3/ton;0
+Poland;173;PL;"Meat-Cattle, boneless";870;Meat;m3/ton;0
+Portugal;174;PT;"Meat-Cattle, boneless";870;Meat;m3/ton;0
+Romania;183;RO;"Meat-Cattle, boneless";870;Meat;m3/ton;0
+Serbia;272;RS;"Meat-Cattle, boneless";870;Meat;m3/ton;0
+Spain;203;ES;"Meat-Cattle, boneless";870;Meat;m3/ton;0
+Turkey;223;TR;"Meat-Cattle, boneless";870;Meat;m3/ton;0
+Austria;11;AT;"Sausage Beef and Veal";874;Meat;m3/ton;0
+Belgium;255;BE;"Sausage Beef and Veal";874;Meat;m3/ton;0
+France;68;FR;"Sausage Beef and Veal";874;Meat;m3/ton;0
+Germany;79;DE;"Sausage Beef and Veal";874;Meat;m3/ton;0
+Greece;84;GR;"Sausage Beef and Veal";874;Meat;m3/ton;0
+Hungary;97;HU;"Sausage Beef and Veal";874;Meat;m3/ton;0
+Italy;106;IT;"Sausage Beef and Veal";874;Meat;m3/ton;0
+Morocco;143;MA;"Sausage Beef and Veal";874;Meat;m3/ton;0
+Netherlands;150;NL;"Sausage Beef and Veal";874;Meat;m3/ton;0
+Poland;173;PL;"Sausage Beef and Veal";874;Meat;m3/ton;0
+Portugal;174;PT;"Sausage Beef and Veal";874;Meat;m3/ton;0
+Romania;183;RO;"Sausage Beef and Veal";874;Meat;m3/ton;0
+Serbia;272;RS;"Sausage Beef and Veal";874;Meat;m3/ton;0
+Spain;203;ES;"Sausage Beef and Veal";874;Meat;m3/ton;0
+Turkey;223;TR;"Sausage Beef and Veal";874;Meat;m3/ton;0
+Austria;11;AT;"Meat, beef, preparations";875;Meat;m3/ton;0
+Belgium;255;BE;"Meat, beef, preparations";875;Meat;m3/ton;0
+France;68;FR;"Meat, beef, preparations";875;Meat;m3/ton;0
+Germany;79;DE;"Meat, beef, preparations";875;Meat;m3/ton;0
+Greece;84;GR;"Meat, beef, preparations";875;Meat;m3/ton;0
+Hungary;97;HU;"Meat, beef, preparations";875;Meat;m3/ton;0
+Italy;106;IT;"Meat, beef, preparations";875;Meat;m3/ton;0
+Morocco;143;MA;"Meat, beef, preparations";875;Meat;m3/ton;0
+Netherlands;150;NL;"Meat, beef, preparations";875;Meat;m3/ton;0
+Poland;173;PL;"Meat, beef, preparations";875;Meat;m3/ton;0
+Portugal;174;PT;"Meat, beef, preparations";875;Meat;m3/ton;0
+Romania;183;RO;"Meat, beef, preparations";875;Meat;m3/ton;0
+Serbia;272;RS;"Meat, beef, preparations";875;Meat;m3/ton;0
+Spain;203;ES;"Meat, beef, preparations";875;Meat;m3/ton;0
+Turkey;223;TR;"Meat, beef, preparations";875;Meat;m3/ton;0
+Austria;11;AT;"Cow milk, whole, fresh";882;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Cow milk, whole, fresh";882;"Diary & Eggs";m3/ton;0
+France;68;FR;"Cow milk, whole, fresh";882;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Cow milk, whole, fresh";882;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Cow milk, whole, fresh";882;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Cow milk, whole, fresh";882;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Cow milk, whole, fresh";882;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Cow milk, whole, fresh";882;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Cow milk, whole, fresh";882;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Cow milk, whole, fresh";882;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Cow milk, whole, fresh";882;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Cow milk, whole, fresh";882;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Cow milk, whole, fresh";882;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Cow milk, whole, fresh";882;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Cow milk, whole, fresh";882;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Cream fresh";885;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Cream fresh";885;"Diary & Eggs";m3/ton;0
+France;68;FR;"Cream fresh";885;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Cream fresh";885;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Cream fresh";885;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Cream fresh";885;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Cream fresh";885;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Cream fresh";885;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Cream fresh";885;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Cream fresh";885;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Cream fresh";885;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Cream fresh";885;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Cream fresh";885;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Cream fresh";885;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Cream fresh";885;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Butter Cow Milk";886;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Butter Cow Milk";886;"Diary & Eggs";m3/ton;0
+France;68;FR;"Butter Cow Milk";886;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Butter Cow Milk";886;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Butter Cow Milk";886;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Butter Cow Milk";886;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Butter Cow Milk";886;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Butter Cow Milk";886;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Butter Cow Milk";886;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Butter Cow Milk";886;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Butter Cow Milk";886;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Butter Cow Milk";886;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Butter Cow Milk";886;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Butter Cow Milk";886;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Butter Cow Milk";886;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Milk Skm of Cows";888;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Milk Skm of Cows";888;"Diary & Eggs";m3/ton;0
+France;68;FR;"Milk Skm of Cows";888;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Milk Skm of Cows";888;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Milk Skm of Cows";888;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Milk Skm of Cows";888;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Milk Skm of Cows";888;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Milk Skm of Cows";888;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Milk Skm of Cows";888;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Milk Skm of Cows";888;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Milk Skm of Cows";888;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Milk Skm of Cows";888;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Milk Skm of Cows";888;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Milk Skm of Cows";888;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Milk Skm of Cows";888;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Milk Whole Cond";889;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Milk Whole Cond";889;"Diary & Eggs";m3/ton;0
+France;68;FR;"Milk Whole Cond";889;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Milk Whole Cond";889;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Milk Whole Cond";889;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Milk Whole Cond";889;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Milk Whole Cond";889;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Milk Whole Cond";889;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Milk Whole Cond";889;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Milk Whole Cond";889;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Milk Whole Cond";889;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Milk Whole Cond";889;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Milk Whole Cond";889;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Milk Whole Cond";889;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Milk Whole Cond";889;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Whey Condensed";890;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Whey Condensed";890;"Diary & Eggs";m3/ton;0
+France;68;FR;"Whey Condensed";890;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Whey Condensed";890;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Whey Condensed";890;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Whey Condensed";890;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Whey Condensed";890;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Whey Condensed";890;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Whey Condensed";890;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Whey Condensed";890;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Whey Condensed";890;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Whey Condensed";890;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Whey Condensed";890;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Whey Condensed";890;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Whey Condensed";890;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Yoghurt, concentrated or not";892;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Yoghurt, concentrated or not";892;"Diary & Eggs";m3/ton;0
+France;68;FR;"Yoghurt, concentrated or not";892;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Yoghurt, concentrated or not";892;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Yoghurt, concentrated or not";892;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Yoghurt, concentrated or not";892;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Yoghurt, concentrated or not";892;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Yoghurt, concentrated or not";892;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Yoghurt, concentrated or not";892;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Yoghurt, concentrated or not";892;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Yoghurt, concentrated or not";892;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Yoghurt, concentrated or not";892;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Yoghurt, concentrated or not";892;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Yoghurt, concentrated or not";892;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Yoghurt, concentrated or not";892;"Diary & Eggs";m3/ton;0
+Austria;11;AT;Butterm.,Curdl,Acid.Milk;893;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;Butterm.,Curdl,Acid.Milk;893;"Diary & Eggs";m3/ton;0
+France;68;FR;Butterm.,Curdl,Acid.Milk;893;"Diary & Eggs";m3/ton;0
+Germany;79;DE;Butterm.,Curdl,Acid.Milk;893;"Diary & Eggs";m3/ton;0
+Greece;84;GR;Butterm.,Curdl,Acid.Milk;893;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;Butterm.,Curdl,Acid.Milk;893;"Diary & Eggs";m3/ton;0
+Italy;106;IT;Butterm.,Curdl,Acid.Milk;893;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;Butterm.,Curdl,Acid.Milk;893;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;Butterm.,Curdl,Acid.Milk;893;"Diary & Eggs";m3/ton;0
+Poland;173;PL;Butterm.,Curdl,Acid.Milk;893;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;Butterm.,Curdl,Acid.Milk;893;"Diary & Eggs";m3/ton;0
+Romania;183;RO;Butterm.,Curdl,Acid.Milk;893;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;Butterm.,Curdl,Acid.Milk;893;"Diary & Eggs";m3/ton;0
+Spain;203;ES;Butterm.,Curdl,Acid.Milk;893;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;Butterm.,Curdl,Acid.Milk;893;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Milk, whole evaporated";894;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Milk, whole evaporated";894;"Diary & Eggs";m3/ton;0
+France;68;FR;"Milk, whole evaporated";894;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Milk, whole evaporated";894;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Milk, whole evaporated";894;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Milk, whole evaporated";894;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Milk, whole evaporated";894;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Milk, whole evaporated";894;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Milk, whole evaporated";894;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Milk, whole evaporated";894;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Milk, whole evaporated";894;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Milk, whole evaporated";894;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Milk, whole evaporated";894;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Milk, whole evaporated";894;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Milk, whole evaporated";894;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Milk Whole Dried";897;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Milk Whole Dried";897;"Diary & Eggs";m3/ton;0
+France;68;FR;"Milk Whole Dried";897;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Milk Whole Dried";897;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Milk Whole Dried";897;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Milk Whole Dried";897;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Milk Whole Dried";897;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Milk Whole Dried";897;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Milk Whole Dried";897;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Milk Whole Dried";897;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Milk Whole Dried";897;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Milk Whole Dried";897;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Milk Whole Dried";897;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Milk Whole Dried";897;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Milk Whole Dried";897;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Milk Skimmed Dry";898;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Milk Skimmed Dry";898;"Diary & Eggs";m3/ton;0
+France;68;FR;"Milk Skimmed Dry";898;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Milk Skimmed Dry";898;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Milk Skimmed Dry";898;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Milk Skimmed Dry";898;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Milk Skimmed Dry";898;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Milk Skimmed Dry";898;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Milk Skimmed Dry";898;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Milk Skimmed Dry";898;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Milk Skimmed Dry";898;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Milk Skimmed Dry";898;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Milk Skimmed Dry";898;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Milk Skimmed Dry";898;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Milk Skimmed Dry";898;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Whey, dry";900;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Whey, dry";900;"Diary & Eggs";m3/ton;0
+France;68;FR;"Whey, dry";900;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Whey, dry";900;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Whey, dry";900;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Whey, dry";900;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Whey, dry";900;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Whey, dry";900;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Whey, dry";900;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Whey, dry";900;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Whey, dry";900;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Whey, dry";900;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Whey, dry";900;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Whey, dry";900;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Whey, dry";900;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Cheese of Whole Cow Milk";901;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Cheese of Whole Cow Milk";901;"Diary & Eggs";m3/ton;0
+France;68;FR;"Cheese of Whole Cow Milk";901;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Cheese of Whole Cow Milk";901;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Cheese of Whole Cow Milk";901;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Cheese of Whole Cow Milk";901;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Cheese of Whole Cow Milk";901;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Cheese of Whole Cow Milk";901;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Cheese of Whole Cow Milk";901;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Cheese of Whole Cow Milk";901;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Cheese of Whole Cow Milk";901;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Cheese of Whole Cow Milk";901;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Cheese of Whole Cow Milk";901;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Cheese of Whole Cow Milk";901;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Cheese of Whole Cow Milk";901;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Processed Cheese";907;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Processed Cheese";907;"Diary & Eggs";m3/ton;0
+France;68;FR;"Processed Cheese";907;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Processed Cheese";907;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Processed Cheese";907;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Processed Cheese";907;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Processed Cheese";907;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Processed Cheese";907;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Processed Cheese";907;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Processed Cheese";907;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Processed Cheese";907;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Processed Cheese";907;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Processed Cheese";907;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Processed Cheese";907;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Processed Cheese";907;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Prod.of Nat.Milk Constit";909;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Prod.of Nat.Milk Constit";909;"Diary & Eggs";m3/ton;0
+France;68;FR;"Prod.of Nat.Milk Constit";909;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Prod.of Nat.Milk Constit";909;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Prod.of Nat.Milk Constit";909;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Prod.of Nat.Milk Constit";909;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Prod.of Nat.Milk Constit";909;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Prod.of Nat.Milk Constit";909;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Prod.of Nat.Milk Constit";909;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Prod.of Nat.Milk Constit";909;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Prod.of Nat.Milk Constit";909;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Prod.of Nat.Milk Constit";909;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Prod.of Nat.Milk Constit";909;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Prod.of Nat.Milk Constit";909;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Prod.of Nat.Milk Constit";909;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Ice cream and edible ice";910;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Ice cream and edible ice";910;"Diary & Eggs";m3/ton;0
+France;68;FR;"Ice cream and edible ice";910;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Ice cream and edible ice";910;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Ice cream and edible ice";910;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Ice cream and edible ice";910;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Ice cream and edible ice";910;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Ice cream and edible ice";910;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Ice cream and edible ice";910;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Ice cream and edible ice";910;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Ice cream and edible ice";910;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Ice cream and edible ice";910;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Ice cream and edible ice";910;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Ice cream and edible ice";910;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Ice cream and edible ice";910;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Meat indigenous, cattle";944;Meat;m3/ton;0
+Belgium;255;BE;"Meat indigenous, cattle";944;Meat;m3/ton;0
+France;68;FR;"Meat indigenous, cattle";944;Meat;m3/ton;0
+Germany;79;DE;"Meat indigenous, cattle";944;Meat;m3/ton;0
+Greece;84;GR;"Meat indigenous, cattle";944;Meat;m3/ton;0
+Hungary;97;HU;"Meat indigenous, cattle";944;Meat;m3/ton;0
+Italy;106;IT;"Meat indigenous, cattle";944;Meat;m3/ton;0
+Morocco;143;MA;"Meat indigenous, cattle";944;Meat;m3/ton;0
+Netherlands;150;NL;"Meat indigenous, cattle";944;Meat;m3/ton;0
+Poland;173;PL;"Meat indigenous, cattle";944;Meat;m3/ton;0
+Portugal;174;PT;"Meat indigenous, cattle";944;Meat;m3/ton;0
+Romania;183;RO;"Meat indigenous, cattle";944;Meat;m3/ton;0
+Serbia;272;RS;"Meat indigenous, cattle";944;Meat;m3/ton;0
+Spain;203;ES;"Meat indigenous, cattle";944;Meat;m3/ton;0
+Turkey;223;TR;"Meat indigenous, cattle";944;Meat;m3/ton;0
+Austria;11;AT;Buffaloes;946;"Live animals";m3/ton;0
+Belgium;255;BE;Buffaloes;946;"Live animals";m3/ton;0
+France;68;FR;Buffaloes;946;"Live animals";m3/ton;0
+Germany;79;DE;Buffaloes;946;"Live animals";m3/ton;0
+Greece;84;GR;Buffaloes;946;"Live animals";m3/ton;0
+Hungary;97;HU;Buffaloes;946;"Live animals";m3/ton;0
+Italy;106;IT;Buffaloes;946;"Live animals";m3/ton;0
+Morocco;143;MA;Buffaloes;946;"Live animals";m3/ton;0
+Netherlands;150;NL;Buffaloes;946;"Live animals";m3/ton;0
+Poland;173;PL;Buffaloes;946;"Live animals";m3/ton;0
+Portugal;174;PT;Buffaloes;946;"Live animals";m3/ton;0
+Romania;183;RO;Buffaloes;946;"Live animals";m3/ton;0
+Serbia;272;RS;Buffaloes;946;"Live animals";m3/ton;0
+Spain;203;ES;Buffaloes;946;"Live animals";m3/ton;0
+Turkey;223;TR;Buffaloes;946;"Live animals";m3/ton;0
+Austria;11;AT;"Meat, buffalo";947;Meat;m3/ton;0
+Belgium;255;BE;"Meat, buffalo";947;Meat;m3/ton;0
+France;68;FR;"Meat, buffalo";947;Meat;m3/ton;0
+Germany;79;DE;"Meat, buffalo";947;Meat;m3/ton;0
+Greece;84;GR;"Meat, buffalo";947;Meat;m3/ton;0
+Hungary;97;HU;"Meat, buffalo";947;Meat;m3/ton;0
+Italy;106;IT;"Meat, buffalo";947;Meat;m3/ton;0
+Morocco;143;MA;"Meat, buffalo";947;Meat;m3/ton;0
+Netherlands;150;NL;"Meat, buffalo";947;Meat;m3/ton;0
+Poland;173;PL;"Meat, buffalo";947;Meat;m3/ton;0
+Portugal;174;PT;"Meat, buffalo";947;Meat;m3/ton;0
+Romania;183;RO;"Meat, buffalo";947;Meat;m3/ton;0
+Serbia;272;RS;"Meat, buffalo";947;Meat;m3/ton;0
+Spain;203;ES;"Meat, buffalo";947;Meat;m3/ton;0
+Turkey;223;TR;"Meat, buffalo";947;Meat;m3/ton;0
+Austria;11;AT;"Milk, whole fresh buffalo";951;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Milk, whole fresh buffalo";951;"Diary & Eggs";m3/ton;0
+France;68;FR;"Milk, whole fresh buffalo";951;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Milk, whole fresh buffalo";951;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Milk, whole fresh buffalo";951;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Milk, whole fresh buffalo";951;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Milk, whole fresh buffalo";951;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Milk, whole fresh buffalo";951;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Milk, whole fresh buffalo";951;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Milk, whole fresh buffalo";951;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Milk, whole fresh buffalo";951;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Milk, whole fresh buffalo";951;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Milk, whole fresh buffalo";951;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Milk, whole fresh buffalo";951;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Milk, whole fresh buffalo";951;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Ghee, of buffalo milk";953;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Ghee, of buffalo milk";953;"Diary & Eggs";m3/ton;0
+France;68;FR;"Ghee, of buffalo milk";953;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Ghee, of buffalo milk";953;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Ghee, of buffalo milk";953;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Ghee, of buffalo milk";953;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Ghee, of buffalo milk";953;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Ghee, of buffalo milk";953;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Ghee, of buffalo milk";953;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Ghee, of buffalo milk";953;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Ghee, of buffalo milk";953;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Ghee, of buffalo milk";953;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Ghee, of buffalo milk";953;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Ghee, of buffalo milk";953;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Ghee, of buffalo milk";953;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Meat indigenous, buffalo";972;Meat;m3/ton;0
+Belgium;255;BE;"Meat indigenous, buffalo";972;Meat;m3/ton;0
+France;68;FR;"Meat indigenous, buffalo";972;Meat;m3/ton;0
+Germany;79;DE;"Meat indigenous, buffalo";972;Meat;m3/ton;0
+Greece;84;GR;"Meat indigenous, buffalo";972;Meat;m3/ton;0
+Hungary;97;HU;"Meat indigenous, buffalo";972;Meat;m3/ton;0
+Italy;106;IT;"Meat indigenous, buffalo";972;Meat;m3/ton;0
+Morocco;143;MA;"Meat indigenous, buffalo";972;Meat;m3/ton;0
+Netherlands;150;NL;"Meat indigenous, buffalo";972;Meat;m3/ton;0
+Poland;173;PL;"Meat indigenous, buffalo";972;Meat;m3/ton;0
+Portugal;174;PT;"Meat indigenous, buffalo";972;Meat;m3/ton;0
+Romania;183;RO;"Meat indigenous, buffalo";972;Meat;m3/ton;0
+Serbia;272;RS;"Meat indigenous, buffalo";972;Meat;m3/ton;0
+Spain;203;ES;"Meat indigenous, buffalo";972;Meat;m3/ton;0
+Turkey;223;TR;"Meat indigenous, buffalo";972;Meat;m3/ton;0
+Austria;11;AT;Sheep;976;"Live animals";m3/ton;0
+Belgium;255;BE;Sheep;976;"Live animals";m3/ton;0
+France;68;FR;Sheep;976;"Live animals";m3/ton;0
+Germany;79;DE;Sheep;976;"Live animals";m3/ton;0
+Greece;84;GR;Sheep;976;"Live animals";m3/ton;0
+Hungary;97;HU;Sheep;976;"Live animals";m3/ton;0
+Italy;106;IT;Sheep;976;"Live animals";m3/ton;0
+Morocco;143;MA;Sheep;976;"Live animals";m3/ton;0
+Netherlands;150;NL;Sheep;976;"Live animals";m3/ton;0
+Poland;173;PL;Sheep;976;"Live animals";m3/ton;0
+Portugal;174;PT;Sheep;976;"Live animals";m3/ton;0
+Romania;183;RO;Sheep;976;"Live animals";m3/ton;0
+Serbia;272;RS;Sheep;976;"Live animals";m3/ton;0
+Spain;203;ES;Sheep;976;"Live animals";m3/ton;0
+Turkey;223;TR;Sheep;976;"Live animals";m3/ton;0
+Austria;11;AT;"Sheep meat";977;Meat;m3/ton;0
+Belgium;255;BE;"Sheep meat";977;Meat;m3/ton;0
+France;68;FR;"Sheep meat";977;Meat;m3/ton;0
+Germany;79;DE;"Sheep meat";977;Meat;m3/ton;0
+Greece;84;GR;"Sheep meat";977;Meat;m3/ton;0
+Hungary;97;HU;"Sheep meat";977;Meat;m3/ton;0
+Italy;106;IT;"Sheep meat";977;Meat;m3/ton;0
+Morocco;143;MA;"Sheep meat";977;Meat;m3/ton;0
+Netherlands;150;NL;"Sheep meat";977;Meat;m3/ton;0
+Poland;173;PL;"Sheep meat";977;Meat;m3/ton;0
+Portugal;174;PT;"Sheep meat";977;Meat;m3/ton;0
+Romania;183;RO;"Sheep meat";977;Meat;m3/ton;0
+Serbia;272;RS;"Sheep meat";977;Meat;m3/ton;0
+Spain;203;ES;"Sheep meat";977;Meat;m3/ton;0
+Turkey;223;TR;"Sheep meat";977;Meat;m3/ton;0
+Austria;11;AT;"Offals of Sheep,Edible";978;Meat;m3/ton;0
+Belgium;255;BE;"Offals of Sheep,Edible";978;Meat;m3/ton;0
+France;68;FR;"Offals of Sheep,Edible";978;Meat;m3/ton;0
+Germany;79;DE;"Offals of Sheep,Edible";978;Meat;m3/ton;0
+Greece;84;GR;"Offals of Sheep,Edible";978;Meat;m3/ton;0
+Hungary;97;HU;"Offals of Sheep,Edible";978;Meat;m3/ton;0
+Italy;106;IT;"Offals of Sheep,Edible";978;Meat;m3/ton;0
+Morocco;143;MA;"Offals of Sheep,Edible";978;Meat;m3/ton;0
+Netherlands;150;NL;"Offals of Sheep,Edible";978;Meat;m3/ton;0
+Poland;173;PL;"Offals of Sheep,Edible";978;Meat;m3/ton;0
+Portugal;174;PT;"Offals of Sheep,Edible";978;Meat;m3/ton;0
+Romania;183;RO;"Offals of Sheep,Edible";978;Meat;m3/ton;0
+Serbia;272;RS;"Offals of Sheep,Edible";978;Meat;m3/ton;0
+Spain;203;ES;"Offals of Sheep,Edible";978;Meat;m3/ton;0
+Turkey;223;TR;"Offals of Sheep,Edible";978;Meat;m3/ton;0
+Austria;11;AT;"Milk, whole fresh sheep";982;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Milk, whole fresh sheep";982;"Diary & Eggs";m3/ton;0
+France;68;FR;"Milk, whole fresh sheep";982;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Milk, whole fresh sheep";982;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Milk, whole fresh sheep";982;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Milk, whole fresh sheep";982;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Milk, whole fresh sheep";982;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Milk, whole fresh sheep";982;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Milk, whole fresh sheep";982;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Milk, whole fresh sheep";982;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Milk, whole fresh sheep";982;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Milk, whole fresh sheep";982;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Milk, whole fresh sheep";982;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Milk, whole fresh sheep";982;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Milk, whole fresh sheep";982;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Cheese of Sheep Milk";984;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Cheese of Sheep Milk";984;"Diary & Eggs";m3/ton;0
+France;68;FR;"Cheese of Sheep Milk";984;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Cheese of Sheep Milk";984;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Cheese of Sheep Milk";984;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Cheese of Sheep Milk";984;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Cheese of Sheep Milk";984;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Cheese of Sheep Milk";984;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Cheese of Sheep Milk";984;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Cheese of Sheep Milk";984;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Cheese of Sheep Milk";984;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Cheese of Sheep Milk";984;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Cheese of Sheep Milk";984;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Cheese of Sheep Milk";984;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Cheese of Sheep Milk";984;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Meat indigenous, sheep";1012;Meat;m3/ton;0
+Belgium;255;BE;"Meat indigenous, sheep";1012;Meat;m3/ton;0
+France;68;FR;"Meat indigenous, sheep";1012;Meat;m3/ton;0
+Germany;79;DE;"Meat indigenous, sheep";1012;Meat;m3/ton;0
+Greece;84;GR;"Meat indigenous, sheep";1012;Meat;m3/ton;0
+Hungary;97;HU;"Meat indigenous, sheep";1012;Meat;m3/ton;0
+Italy;106;IT;"Meat indigenous, sheep";1012;Meat;m3/ton;0
+Morocco;143;MA;"Meat indigenous, sheep";1012;Meat;m3/ton;0
+Netherlands;150;NL;"Meat indigenous, sheep";1012;Meat;m3/ton;0
+Poland;173;PL;"Meat indigenous, sheep";1012;Meat;m3/ton;0
+Portugal;174;PT;"Meat indigenous, sheep";1012;Meat;m3/ton;0
+Romania;183;RO;"Meat indigenous, sheep";1012;Meat;m3/ton;0
+Serbia;272;RS;"Meat indigenous, sheep";1012;Meat;m3/ton;0
+Spain;203;ES;"Meat indigenous, sheep";1012;Meat;m3/ton;0
+Turkey;223;TR;"Meat indigenous, sheep";1012;Meat;m3/ton;0
+Austria;11;AT;Goats;1016;"Live animals";m3/ton;0
+Belgium;255;BE;Goats;1016;"Live animals";m3/ton;0
+France;68;FR;Goats;1016;"Live animals";m3/ton;0
+Germany;79;DE;Goats;1016;"Live animals";m3/ton;0
+Greece;84;GR;Goats;1016;"Live animals";m3/ton;0
+Hungary;97;HU;Goats;1016;"Live animals";m3/ton;0
+Italy;106;IT;Goats;1016;"Live animals";m3/ton;0
+Morocco;143;MA;Goats;1016;"Live animals";m3/ton;0
+Netherlands;150;NL;Goats;1016;"Live animals";m3/ton;0
+Poland;173;PL;Goats;1016;"Live animals";m3/ton;0
+Portugal;174;PT;Goats;1016;"Live animals";m3/ton;0
+Romania;183;RO;Goats;1016;"Live animals";m3/ton;0
+Serbia;272;RS;Goats;1016;"Live animals";m3/ton;0
+Spain;203;ES;Goats;1016;"Live animals";m3/ton;0
+Turkey;223;TR;Goats;1016;"Live animals";m3/ton;0
+Austria;11;AT;"Goat meat";1017;Meat;m3/ton;0
+Belgium;255;BE;"Goat meat";1017;Meat;m3/ton;0
+France;68;FR;"Goat meat";1017;Meat;m3/ton;0
+Germany;79;DE;"Goat meat";1017;Meat;m3/ton;0
+Greece;84;GR;"Goat meat";1017;Meat;m3/ton;0
+Hungary;97;HU;"Goat meat";1017;Meat;m3/ton;0
+Italy;106;IT;"Goat meat";1017;Meat;m3/ton;0
+Morocco;143;MA;"Goat meat";1017;Meat;m3/ton;0
+Netherlands;150;NL;"Goat meat";1017;Meat;m3/ton;0
+Poland;173;PL;"Goat meat";1017;Meat;m3/ton;0
+Portugal;174;PT;"Goat meat";1017;Meat;m3/ton;0
+Romania;183;RO;"Goat meat";1017;Meat;m3/ton;0
+Serbia;272;RS;"Goat meat";1017;Meat;m3/ton;0
+Spain;203;ES;"Goat meat";1017;Meat;m3/ton;0
+Turkey;223;TR;"Goat meat";1017;Meat;m3/ton;0
+Austria;11;AT;"Offals of Goats, Edible";1018;Meat;m3/ton;0
+Belgium;255;BE;"Offals of Goats, Edible";1018;Meat;m3/ton;0
+France;68;FR;"Offals of Goats, Edible";1018;Meat;m3/ton;0
+Germany;79;DE;"Offals of Goats, Edible";1018;Meat;m3/ton;0
+Greece;84;GR;"Offals of Goats, Edible";1018;Meat;m3/ton;0
+Hungary;97;HU;"Offals of Goats, Edible";1018;Meat;m3/ton;0
+Italy;106;IT;"Offals of Goats, Edible";1018;Meat;m3/ton;0
+Morocco;143;MA;"Offals of Goats, Edible";1018;Meat;m3/ton;0
+Netherlands;150;NL;"Offals of Goats, Edible";1018;Meat;m3/ton;0
+Poland;173;PL;"Offals of Goats, Edible";1018;Meat;m3/ton;0
+Portugal;174;PT;"Offals of Goats, Edible";1018;Meat;m3/ton;0
+Romania;183;RO;"Offals of Goats, Edible";1018;Meat;m3/ton;0
+Serbia;272;RS;"Offals of Goats, Edible";1018;Meat;m3/ton;0
+Spain;203;ES;"Offals of Goats, Edible";1018;Meat;m3/ton;0
+Turkey;223;TR;"Offals of Goats, Edible";1018;Meat;m3/ton;0
+Austria;11;AT;"Milk, whole fresh goat";1020;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Milk, whole fresh goat";1020;"Diary & Eggs";m3/ton;0
+France;68;FR;"Milk, whole fresh goat";1020;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Milk, whole fresh goat";1020;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Milk, whole fresh goat";1020;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Milk, whole fresh goat";1020;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Milk, whole fresh goat";1020;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Milk, whole fresh goat";1020;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Milk, whole fresh goat";1020;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Milk, whole fresh goat";1020;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Milk, whole fresh goat";1020;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Milk, whole fresh goat";1020;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Milk, whole fresh goat";1020;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Milk, whole fresh goat";1020;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Milk, whole fresh goat";1020;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Meat indigenous, goat";1032;Meat;m3/ton;0
+Belgium;255;BE;"Meat indigenous, goat";1032;Meat;m3/ton;0
+France;68;FR;"Meat indigenous, goat";1032;Meat;m3/ton;0
+Germany;79;DE;"Meat indigenous, goat";1032;Meat;m3/ton;0
+Greece;84;GR;"Meat indigenous, goat";1032;Meat;m3/ton;0
+Hungary;97;HU;"Meat indigenous, goat";1032;Meat;m3/ton;0
+Italy;106;IT;"Meat indigenous, goat";1032;Meat;m3/ton;0
+Morocco;143;MA;"Meat indigenous, goat";1032;Meat;m3/ton;0
+Netherlands;150;NL;"Meat indigenous, goat";1032;Meat;m3/ton;0
+Poland;173;PL;"Meat indigenous, goat";1032;Meat;m3/ton;0
+Portugal;174;PT;"Meat indigenous, goat";1032;Meat;m3/ton;0
+Romania;183;RO;"Meat indigenous, goat";1032;Meat;m3/ton;0
+Serbia;272;RS;"Meat indigenous, goat";1032;Meat;m3/ton;0
+Spain;203;ES;"Meat indigenous, goat";1032;Meat;m3/ton;0
+Turkey;223;TR;"Meat indigenous, goat";1032;Meat;m3/ton;0
+Austria;11;AT;Pigs;1034;"Live animals";m3/ton;0
+Belgium;255;BE;Pigs;1034;"Live animals";m3/ton;0
+France;68;FR;Pigs;1034;"Live animals";m3/ton;0
+Germany;79;DE;Pigs;1034;"Live animals";m3/ton;0
+Greece;84;GR;Pigs;1034;"Live animals";m3/ton;0
+Hungary;97;HU;Pigs;1034;"Live animals";m3/ton;0
+Italy;106;IT;Pigs;1034;"Live animals";m3/ton;0
+Morocco;143;MA;Pigs;1034;"Live animals";m3/ton;0
+Netherlands;150;NL;Pigs;1034;"Live animals";m3/ton;0
+Poland;173;PL;Pigs;1034;"Live animals";m3/ton;0
+Portugal;174;PT;Pigs;1034;"Live animals";m3/ton;0
+Romania;183;RO;Pigs;1034;"Live animals";m3/ton;0
+Serbia;272;RS;Pigs;1034;"Live animals";m3/ton;0
+Spain;203;ES;Pigs;1034;"Live animals";m3/ton;0
+Turkey;223;TR;Pigs;1034;"Live animals";m3/ton;0
+Austria;11;AT;"Pig meat";1035;Meat;m3/ton;0
+Belgium;255;BE;"Pig meat";1035;Meat;m3/ton;0
+France;68;FR;"Pig meat";1035;Meat;m3/ton;0
+Germany;79;DE;"Pig meat";1035;Meat;m3/ton;0
+Greece;84;GR;"Pig meat";1035;Meat;m3/ton;0
+Hungary;97;HU;"Pig meat";1035;Meat;m3/ton;0
+Italy;106;IT;"Pig meat";1035;Meat;m3/ton;0
+Morocco;143;MA;"Pig meat";1035;Meat;m3/ton;0
+Netherlands;150;NL;"Pig meat";1035;Meat;m3/ton;0
+Poland;173;PL;"Pig meat";1035;Meat;m3/ton;0
+Portugal;174;PT;"Pig meat";1035;Meat;m3/ton;0
+Romania;183;RO;"Pig meat";1035;Meat;m3/ton;0
+Serbia;272;RS;"Pig meat";1035;Meat;m3/ton;0
+Spain;203;ES;"Pig meat";1035;Meat;m3/ton;0
+Turkey;223;TR;"Pig meat";1035;Meat;m3/ton;0
+Austria;11;AT;"Offals of Pigs, Edible";1036;Meat;m3/ton;0
+Belgium;255;BE;"Offals of Pigs, Edible";1036;Meat;m3/ton;0
+France;68;FR;"Offals of Pigs, Edible";1036;Meat;m3/ton;0
+Germany;79;DE;"Offals of Pigs, Edible";1036;Meat;m3/ton;0
+Greece;84;GR;"Offals of Pigs, Edible";1036;Meat;m3/ton;0
+Hungary;97;HU;"Offals of Pigs, Edible";1036;Meat;m3/ton;0
+Italy;106;IT;"Offals of Pigs, Edible";1036;Meat;m3/ton;0
+Morocco;143;MA;"Offals of Pigs, Edible";1036;Meat;m3/ton;0
+Netherlands;150;NL;"Offals of Pigs, Edible";1036;Meat;m3/ton;0
+Poland;173;PL;"Offals of Pigs, Edible";1036;Meat;m3/ton;0
+Portugal;174;PT;"Offals of Pigs, Edible";1036;Meat;m3/ton;0
+Romania;183;RO;"Offals of Pigs, Edible";1036;Meat;m3/ton;0
+Serbia;272;RS;"Offals of Pigs, Edible";1036;Meat;m3/ton;0
+Spain;203;ES;"Offals of Pigs, Edible";1036;Meat;m3/ton;0
+Turkey;223;TR;"Offals of Pigs, Edible";1036;Meat;m3/ton;0
+Austria;11;AT;"Fat of Pigs";1037;Meat;m3/ton;0
+Belgium;255;BE;"Fat of Pigs";1037;Meat;m3/ton;0
+France;68;FR;"Fat of Pigs";1037;Meat;m3/ton;0
+Germany;79;DE;"Fat of Pigs";1037;Meat;m3/ton;0
+Greece;84;GR;"Fat of Pigs";1037;Meat;m3/ton;0
+Hungary;97;HU;"Fat of Pigs";1037;Meat;m3/ton;0
+Italy;106;IT;"Fat of Pigs";1037;Meat;m3/ton;0
+Morocco;143;MA;"Fat of Pigs";1037;Meat;m3/ton;0
+Netherlands;150;NL;"Fat of Pigs";1037;Meat;m3/ton;0
+Poland;173;PL;"Fat of Pigs";1037;Meat;m3/ton;0
+Portugal;174;PT;"Fat of Pigs";1037;Meat;m3/ton;0
+Romania;183;RO;"Fat of Pigs";1037;Meat;m3/ton;0
+Serbia;272;RS;"Fat of Pigs";1037;Meat;m3/ton;0
+Spain;203;ES;"Fat of Pigs";1037;Meat;m3/ton;0
+Turkey;223;TR;"Fat of Pigs";1037;Meat;m3/ton;0
+Austria;11;AT;"Meat, pork";1038;Meat;m3/ton;0
+Belgium;255;BE;"Meat, pork";1038;Meat;m3/ton;0
+France;68;FR;"Meat, pork";1038;Meat;m3/ton;0
+Germany;79;DE;"Meat, pork";1038;Meat;m3/ton;0
+Greece;84;GR;"Meat, pork";1038;Meat;m3/ton;0
+Hungary;97;HU;"Meat, pork";1038;Meat;m3/ton;0
+Italy;106;IT;"Meat, pork";1038;Meat;m3/ton;0
+Morocco;143;MA;"Meat, pork";1038;Meat;m3/ton;0
+Netherlands;150;NL;"Meat, pork";1038;Meat;m3/ton;0
+Poland;173;PL;"Meat, pork";1038;Meat;m3/ton;0
+Portugal;174;PT;"Meat, pork";1038;Meat;m3/ton;0
+Romania;183;RO;"Meat, pork";1038;Meat;m3/ton;0
+Serbia;272;RS;"Meat, pork";1038;Meat;m3/ton;0
+Spain;203;ES;"Meat, pork";1038;Meat;m3/ton;0
+Turkey;223;TR;"Meat, pork";1038;Meat;m3/ton;0
+Austria;11;AT;"Bacon and Ham";1039;Meat;m3/ton;0
+Belgium;255;BE;"Bacon and Ham";1039;Meat;m3/ton;0
+France;68;FR;"Bacon and Ham";1039;Meat;m3/ton;0
+Germany;79;DE;"Bacon and Ham";1039;Meat;m3/ton;0
+Greece;84;GR;"Bacon and Ham";1039;Meat;m3/ton;0
+Hungary;97;HU;"Bacon and Ham";1039;Meat;m3/ton;0
+Italy;106;IT;"Bacon and Ham";1039;Meat;m3/ton;0
+Morocco;143;MA;"Bacon and Ham";1039;Meat;m3/ton;0
+Netherlands;150;NL;"Bacon and Ham";1039;Meat;m3/ton;0
+Poland;173;PL;"Bacon and Ham";1039;Meat;m3/ton;0
+Portugal;174;PT;"Bacon and Ham";1039;Meat;m3/ton;0
+Romania;183;RO;"Bacon and Ham";1039;Meat;m3/ton;0
+Serbia;272;RS;"Bacon and Ham";1039;Meat;m3/ton;0
+Spain;203;ES;"Bacon and Ham";1039;Meat;m3/ton;0
+Turkey;223;TR;"Bacon and Ham";1039;Meat;m3/ton;0
+Austria;11;AT;"Sausages of Pig Meat";1041;Meat;m3/ton;0
+Belgium;255;BE;"Sausages of Pig Meat";1041;Meat;m3/ton;0
+France;68;FR;"Sausages of Pig Meat";1041;Meat;m3/ton;0
+Germany;79;DE;"Sausages of Pig Meat";1041;Meat;m3/ton;0
+Greece;84;GR;"Sausages of Pig Meat";1041;Meat;m3/ton;0
+Hungary;97;HU;"Sausages of Pig Meat";1041;Meat;m3/ton;0
+Italy;106;IT;"Sausages of Pig Meat";1041;Meat;m3/ton;0
+Morocco;143;MA;"Sausages of Pig Meat";1041;Meat;m3/ton;0
+Netherlands;150;NL;"Sausages of Pig Meat";1041;Meat;m3/ton;0
+Poland;173;PL;"Sausages of Pig Meat";1041;Meat;m3/ton;0
+Portugal;174;PT;"Sausages of Pig Meat";1041;Meat;m3/ton;0
+Romania;183;RO;"Sausages of Pig Meat";1041;Meat;m3/ton;0
+Serbia;272;RS;"Sausages of Pig Meat";1041;Meat;m3/ton;0
+Spain;203;ES;"Sausages of Pig Meat";1041;Meat;m3/ton;0
+Turkey;223;TR;"Sausages of Pig Meat";1041;Meat;m3/ton;0
+Austria;11;AT;"Prep of Pig Meat";1042;Meat;m3/ton;0
+Belgium;255;BE;"Prep of Pig Meat";1042;Meat;m3/ton;0
+France;68;FR;"Prep of Pig Meat";1042;Meat;m3/ton;0
+Germany;79;DE;"Prep of Pig Meat";1042;Meat;m3/ton;0
+Greece;84;GR;"Prep of Pig Meat";1042;Meat;m3/ton;0
+Hungary;97;HU;"Prep of Pig Meat";1042;Meat;m3/ton;0
+Italy;106;IT;"Prep of Pig Meat";1042;Meat;m3/ton;0
+Morocco;143;MA;"Prep of Pig Meat";1042;Meat;m3/ton;0
+Netherlands;150;NL;"Prep of Pig Meat";1042;Meat;m3/ton;0
+Poland;173;PL;"Prep of Pig Meat";1042;Meat;m3/ton;0
+Portugal;174;PT;"Prep of Pig Meat";1042;Meat;m3/ton;0
+Romania;183;RO;"Prep of Pig Meat";1042;Meat;m3/ton;0
+Serbia;272;RS;"Prep of Pig Meat";1042;Meat;m3/ton;0
+Spain;203;ES;"Prep of Pig Meat";1042;Meat;m3/ton;0
+Turkey;223;TR;"Prep of Pig Meat";1042;Meat;m3/ton;0
+Austria;11;AT;Lard;1043;Meat;m3/ton;0
+Belgium;255;BE;Lard;1043;Meat;m3/ton;0
+France;68;FR;Lard;1043;Meat;m3/ton;0
+Germany;79;DE;Lard;1043;Meat;m3/ton;0
+Greece;84;GR;Lard;1043;Meat;m3/ton;0
+Hungary;97;HU;Lard;1043;Meat;m3/ton;0
+Italy;106;IT;Lard;1043;Meat;m3/ton;0
+Morocco;143;MA;Lard;1043;Meat;m3/ton;0
+Netherlands;150;NL;Lard;1043;Meat;m3/ton;0
+Poland;173;PL;Lard;1043;Meat;m3/ton;0
+Portugal;174;PT;Lard;1043;Meat;m3/ton;0
+Romania;183;RO;Lard;1043;Meat;m3/ton;0
+Serbia;272;RS;Lard;1043;Meat;m3/ton;0
+Spain;203;ES;Lard;1043;Meat;m3/ton;0
+Turkey;223;TR;Lard;1043;Meat;m3/ton;0
+Austria;11;AT;"Meat indigenous, pig";1055;Meat;m3/ton;0
+Belgium;255;BE;"Meat indigenous, pig";1055;Meat;m3/ton;0
+France;68;FR;"Meat indigenous, pig";1055;Meat;m3/ton;0
+Germany;79;DE;"Meat indigenous, pig";1055;Meat;m3/ton;0
+Greece;84;GR;"Meat indigenous, pig";1055;Meat;m3/ton;0
+Hungary;97;HU;"Meat indigenous, pig";1055;Meat;m3/ton;0
+Italy;106;IT;"Meat indigenous, pig";1055;Meat;m3/ton;0
+Morocco;143;MA;"Meat indigenous, pig";1055;Meat;m3/ton;0
+Netherlands;150;NL;"Meat indigenous, pig";1055;Meat;m3/ton;0
+Poland;173;PL;"Meat indigenous, pig";1055;Meat;m3/ton;0
+Portugal;174;PT;"Meat indigenous, pig";1055;Meat;m3/ton;0
+Romania;183;RO;"Meat indigenous, pig";1055;Meat;m3/ton;0
+Serbia;272;RS;"Meat indigenous, pig";1055;Meat;m3/ton;0
+Spain;203;ES;"Meat indigenous, pig";1055;Meat;m3/ton;0
+Turkey;223;TR;"Meat indigenous, pig";1055;Meat;m3/ton;0
+Austria;11;AT;Chickens;1057;"Live animals";m3/ton;0
+Belgium;255;BE;Chickens;1057;"Live animals";m3/ton;0
+France;68;FR;Chickens;1057;"Live animals";m3/ton;0
+Germany;79;DE;Chickens;1057;"Live animals";m3/ton;0
+Greece;84;GR;Chickens;1057;"Live animals";m3/ton;0
+Hungary;97;HU;Chickens;1057;"Live animals";m3/ton;0
+Italy;106;IT;Chickens;1057;"Live animals";m3/ton;0
+Morocco;143;MA;Chickens;1057;"Live animals";m3/ton;0
+Netherlands;150;NL;Chickens;1057;"Live animals";m3/ton;0
+Poland;173;PL;Chickens;1057;"Live animals";m3/ton;0
+Portugal;174;PT;Chickens;1057;"Live animals";m3/ton;0
+Romania;183;RO;Chickens;1057;"Live animals";m3/ton;0
+Serbia;272;RS;Chickens;1057;"Live animals";m3/ton;0
+Spain;203;ES;Chickens;1057;"Live animals";m3/ton;0
+Turkey;223;TR;Chickens;1057;"Live animals";m3/ton;0
+Austria;11;AT;"Meat, chicken";1058;Meat;m3/ton;0
+Belgium;255;BE;"Meat, chicken";1058;Meat;m3/ton;0
+France;68;FR;"Meat, chicken";1058;Meat;m3/ton;0
+Germany;79;DE;"Meat, chicken";1058;Meat;m3/ton;0
+Greece;84;GR;"Meat, chicken";1058;Meat;m3/ton;0
+Hungary;97;HU;"Meat, chicken";1058;Meat;m3/ton;0
+Italy;106;IT;"Meat, chicken";1058;Meat;m3/ton;0
+Morocco;143;MA;"Meat, chicken";1058;Meat;m3/ton;0
+Netherlands;150;NL;"Meat, chicken";1058;Meat;m3/ton;0
+Poland;173;PL;"Meat, chicken";1058;Meat;m3/ton;0
+Portugal;174;PT;"Meat, chicken";1058;Meat;m3/ton;0
+Romania;183;RO;"Meat, chicken";1058;Meat;m3/ton;0
+Serbia;272;RS;"Meat, chicken";1058;Meat;m3/ton;0
+Spain;203;ES;"Meat, chicken";1058;Meat;m3/ton;0
+Turkey;223;TR;"Meat, chicken";1058;Meat;m3/ton;0
+Austria;11;AT;"Offals, liver chicken";1059;Meat;m3/ton;0
+Belgium;255;BE;"Offals, liver chicken";1059;Meat;m3/ton;0
+France;68;FR;"Offals, liver chicken";1059;Meat;m3/ton;0
+Germany;79;DE;"Offals, liver chicken";1059;Meat;m3/ton;0
+Greece;84;GR;"Offals, liver chicken";1059;Meat;m3/ton;0
+Hungary;97;HU;"Offals, liver chicken";1059;Meat;m3/ton;0
+Italy;106;IT;"Offals, liver chicken";1059;Meat;m3/ton;0
+Morocco;143;MA;"Offals, liver chicken";1059;Meat;m3/ton;0
+Netherlands;150;NL;"Offals, liver chicken";1059;Meat;m3/ton;0
+Poland;173;PL;"Offals, liver chicken";1059;Meat;m3/ton;0
+Portugal;174;PT;"Offals, liver chicken";1059;Meat;m3/ton;0
+Romania;183;RO;"Offals, liver chicken";1059;Meat;m3/ton;0
+Serbia;272;RS;"Offals, liver chicken";1059;Meat;m3/ton;0
+Spain;203;ES;"Offals, liver chicken";1059;Meat;m3/ton;0
+Turkey;223;TR;"Offals, liver chicken";1059;Meat;m3/ton;0
+Austria;11;AT;"Fat, liver prepared (foie gras)";1060;Meat;m3/ton;0
+Belgium;255;BE;"Fat, liver prepared (foie gras)";1060;Meat;m3/ton;0
+France;68;FR;"Fat, liver prepared (foie gras)";1060;Meat;m3/ton;0
+Germany;79;DE;"Fat, liver prepared (foie gras)";1060;Meat;m3/ton;0
+Greece;84;GR;"Fat, liver prepared (foie gras)";1060;Meat;m3/ton;0
+Hungary;97;HU;"Fat, liver prepared (foie gras)";1060;Meat;m3/ton;0
+Italy;106;IT;"Fat, liver prepared (foie gras)";1060;Meat;m3/ton;0
+Morocco;143;MA;"Fat, liver prepared (foie gras)";1060;Meat;m3/ton;0
+Netherlands;150;NL;"Fat, liver prepared (foie gras)";1060;Meat;m3/ton;0
+Poland;173;PL;"Fat, liver prepared (foie gras)";1060;Meat;m3/ton;0
+Portugal;174;PT;"Fat, liver prepared (foie gras)";1060;Meat;m3/ton;0
+Romania;183;RO;"Fat, liver prepared (foie gras)";1060;Meat;m3/ton;0
+Serbia;272;RS;"Fat, liver prepared (foie gras)";1060;Meat;m3/ton;0
+Spain;203;ES;"Fat, liver prepared (foie gras)";1060;Meat;m3/ton;0
+Turkey;223;TR;"Fat, liver prepared (foie gras)";1060;Meat;m3/ton;0
+Austria;11;AT;"Meat, chicken, canned";1061;Meat;m3/ton;0
+Belgium;255;BE;"Meat, chicken, canned";1061;Meat;m3/ton;0
+France;68;FR;"Meat, chicken, canned";1061;Meat;m3/ton;0
+Germany;79;DE;"Meat, chicken, canned";1061;Meat;m3/ton;0
+Greece;84;GR;"Meat, chicken, canned";1061;Meat;m3/ton;0
+Hungary;97;HU;"Meat, chicken, canned";1061;Meat;m3/ton;0
+Italy;106;IT;"Meat, chicken, canned";1061;Meat;m3/ton;0
+Morocco;143;MA;"Meat, chicken, canned";1061;Meat;m3/ton;0
+Netherlands;150;NL;"Meat, chicken, canned";1061;Meat;m3/ton;0
+Poland;173;PL;"Meat, chicken, canned";1061;Meat;m3/ton;0
+Portugal;174;PT;"Meat, chicken, canned";1061;Meat;m3/ton;0
+Romania;183;RO;"Meat, chicken, canned";1061;Meat;m3/ton;0
+Serbia;272;RS;"Meat, chicken, canned";1061;Meat;m3/ton;0
+Spain;203;ES;"Meat, chicken, canned";1061;Meat;m3/ton;0
+Turkey;223;TR;"Meat, chicken, canned";1061;Meat;m3/ton;0
+Austria;11;AT;"Hen eggs, in shell";1062;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Hen eggs, in shell";1062;"Diary & Eggs";m3/ton;0
+France;68;FR;"Hen eggs, in shell";1062;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Hen eggs, in shell";1062;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Hen eggs, in shell";1062;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Hen eggs, in shell";1062;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Hen eggs, in shell";1062;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Hen eggs, in shell";1062;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Hen eggs, in shell";1062;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Hen eggs, in shell";1062;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Hen eggs, in shell";1062;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Hen eggs, in shell";1062;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Hen eggs, in shell";1062;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Hen eggs, in shell";1062;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Hen eggs, in shell";1062;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Eggs Liquid";1063;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Eggs Liquid";1063;"Diary & Eggs";m3/ton;0
+France;68;FR;"Eggs Liquid";1063;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Eggs Liquid";1063;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Eggs Liquid";1063;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Eggs Liquid";1063;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Eggs Liquid";1063;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Eggs Liquid";1063;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Eggs Liquid";1063;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Eggs Liquid";1063;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Eggs Liquid";1063;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Eggs Liquid";1063;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Eggs Liquid";1063;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Eggs Liquid";1063;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Eggs Liquid";1063;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Eggs Dried";1064;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Eggs Dried";1064;"Diary & Eggs";m3/ton;0
+France;68;FR;"Eggs Dried";1064;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Eggs Dried";1064;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Eggs Dried";1064;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Eggs Dried";1064;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Eggs Dried";1064;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Eggs Dried";1064;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Eggs Dried";1064;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Eggs Dried";1064;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Eggs Dried";1064;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Eggs Dried";1064;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Eggs Dried";1064;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Eggs Dried";1064;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Eggs Dried";1064;"Diary & Eggs";m3/ton;0
+Austria;11;AT;Ducks;1068;"Live animals";m3/ton;0
+Belgium;255;BE;Ducks;1068;"Live animals";m3/ton;0
+France;68;FR;Ducks;1068;"Live animals";m3/ton;0
+Germany;79;DE;Ducks;1068;"Live animals";m3/ton;0
+Greece;84;GR;Ducks;1068;"Live animals";m3/ton;0
+Hungary;97;HU;Ducks;1068;"Live animals";m3/ton;0
+Italy;106;IT;Ducks;1068;"Live animals";m3/ton;0
+Morocco;143;MA;Ducks;1068;"Live animals";m3/ton;0
+Netherlands;150;NL;Ducks;1068;"Live animals";m3/ton;0
+Poland;173;PL;Ducks;1068;"Live animals";m3/ton;0
+Portugal;174;PT;Ducks;1068;"Live animals";m3/ton;0
+Romania;183;RO;Ducks;1068;"Live animals";m3/ton;0
+Serbia;272;RS;Ducks;1068;"Live animals";m3/ton;0
+Spain;203;ES;Ducks;1068;"Live animals";m3/ton;0
+Turkey;223;TR;Ducks;1068;"Live animals";m3/ton;0
+Austria;11;AT;"Duck meat";1069;Meat;m3/ton;0
+Belgium;255;BE;"Duck meat";1069;Meat;m3/ton;0
+France;68;FR;"Duck meat";1069;Meat;m3/ton;0
+Germany;79;DE;"Duck meat";1069;Meat;m3/ton;0
+Greece;84;GR;"Duck meat";1069;Meat;m3/ton;0
+Hungary;97;HU;"Duck meat";1069;Meat;m3/ton;0
+Italy;106;IT;"Duck meat";1069;Meat;m3/ton;0
+Morocco;143;MA;"Duck meat";1069;Meat;m3/ton;0
+Netherlands;150;NL;"Duck meat";1069;Meat;m3/ton;0
+Poland;173;PL;"Duck meat";1069;Meat;m3/ton;0
+Portugal;174;PT;"Duck meat";1069;Meat;m3/ton;0
+Romania;183;RO;"Duck meat";1069;Meat;m3/ton;0
+Serbia;272;RS;"Duck meat";1069;Meat;m3/ton;0
+Spain;203;ES;"Duck meat";1069;Meat;m3/ton;0
+Turkey;223;TR;"Duck meat";1069;Meat;m3/ton;0
+Austria;11;AT;"Meat indigenous, duck";1070;Meat;m3/ton;0
+Belgium;255;BE;"Meat indigenous, duck";1070;Meat;m3/ton;0
+France;68;FR;"Meat indigenous, duck";1070;Meat;m3/ton;0
+Germany;79;DE;"Meat indigenous, duck";1070;Meat;m3/ton;0
+Greece;84;GR;"Meat indigenous, duck";1070;Meat;m3/ton;0
+Hungary;97;HU;"Meat indigenous, duck";1070;Meat;m3/ton;0
+Italy;106;IT;"Meat indigenous, duck";1070;Meat;m3/ton;0
+Morocco;143;MA;"Meat indigenous, duck";1070;Meat;m3/ton;0
+Netherlands;150;NL;"Meat indigenous, duck";1070;Meat;m3/ton;0
+Poland;173;PL;"Meat indigenous, duck";1070;Meat;m3/ton;0
+Portugal;174;PT;"Meat indigenous, duck";1070;Meat;m3/ton;0
+Romania;183;RO;"Meat indigenous, duck";1070;Meat;m3/ton;0
+Serbia;272;RS;"Meat indigenous, duck";1070;Meat;m3/ton;0
+Spain;203;ES;"Meat indigenous, duck";1070;Meat;m3/ton;0
+Turkey;223;TR;"Meat indigenous, duck";1070;Meat;m3/ton;0
+Austria;11;AT;"Goose and guinea fowl meat";1073;Meat;m3/ton;0
+Belgium;255;BE;"Goose and guinea fowl meat";1073;Meat;m3/ton;0
+France;68;FR;"Goose and guinea fowl meat";1073;Meat;m3/ton;0
+Germany;79;DE;"Goose and guinea fowl meat";1073;Meat;m3/ton;0
+Greece;84;GR;"Goose and guinea fowl meat";1073;Meat;m3/ton;0
+Hungary;97;HU;"Goose and guinea fowl meat";1073;Meat;m3/ton;0
+Italy;106;IT;"Goose and guinea fowl meat";1073;Meat;m3/ton;0
+Morocco;143;MA;"Goose and guinea fowl meat";1073;Meat;m3/ton;0
+Netherlands;150;NL;"Goose and guinea fowl meat";1073;Meat;m3/ton;0
+Poland;173;PL;"Goose and guinea fowl meat";1073;Meat;m3/ton;0
+Portugal;174;PT;"Goose and guinea fowl meat";1073;Meat;m3/ton;0
+Romania;183;RO;"Goose and guinea fowl meat";1073;Meat;m3/ton;0
+Serbia;272;RS;"Goose and guinea fowl meat";1073;Meat;m3/ton;0
+Spain;203;ES;"Goose and guinea fowl meat";1073;Meat;m3/ton;0
+Turkey;223;TR;"Goose and guinea fowl meat";1073;Meat;m3/ton;0
+Austria;11;AT;"Offals, liver geese";1074;Meat;m3/ton;0
+Belgium;255;BE;"Offals, liver geese";1074;Meat;m3/ton;0
+France;68;FR;"Offals, liver geese";1074;Meat;m3/ton;0
+Germany;79;DE;"Offals, liver geese";1074;Meat;m3/ton;0
+Greece;84;GR;"Offals, liver geese";1074;Meat;m3/ton;0
+Hungary;97;HU;"Offals, liver geese";1074;Meat;m3/ton;0
+Italy;106;IT;"Offals, liver geese";1074;Meat;m3/ton;0
+Morocco;143;MA;"Offals, liver geese";1074;Meat;m3/ton;0
+Netherlands;150;NL;"Offals, liver geese";1074;Meat;m3/ton;0
+Poland;173;PL;"Offals, liver geese";1074;Meat;m3/ton;0
+Portugal;174;PT;"Offals, liver geese";1074;Meat;m3/ton;0
+Romania;183;RO;"Offals, liver geese";1074;Meat;m3/ton;0
+Serbia;272;RS;"Offals, liver geese";1074;Meat;m3/ton;0
+Spain;203;ES;"Offals, liver geese";1074;Meat;m3/ton;0
+Turkey;223;TR;"Offals, liver geese";1074;Meat;m3/ton;0
+Austria;11;AT;"Offals, liver duck";1075;Meat;m3/ton;0
+Belgium;255;BE;"Offals, liver duck";1075;Meat;m3/ton;0
+France;68;FR;"Offals, liver duck";1075;Meat;m3/ton;0
+Germany;79;DE;"Offals, liver duck";1075;Meat;m3/ton;0
+Greece;84;GR;"Offals, liver duck";1075;Meat;m3/ton;0
+Hungary;97;HU;"Offals, liver duck";1075;Meat;m3/ton;0
+Italy;106;IT;"Offals, liver duck";1075;Meat;m3/ton;0
+Morocco;143;MA;"Offals, liver duck";1075;Meat;m3/ton;0
+Netherlands;150;NL;"Offals, liver duck";1075;Meat;m3/ton;0
+Poland;173;PL;"Offals, liver duck";1075;Meat;m3/ton;0
+Portugal;174;PT;"Offals, liver duck";1075;Meat;m3/ton;0
+Romania;183;RO;"Offals, liver duck";1075;Meat;m3/ton;0
+Serbia;272;RS;"Offals, liver duck";1075;Meat;m3/ton;0
+Spain;203;ES;"Offals, liver duck";1075;Meat;m3/ton;0
+Turkey;223;TR;"Offals, liver duck";1075;Meat;m3/ton;0
+Austria;11;AT;"Meat indigenous, geese";1077;Meat;m3/ton;0
+Belgium;255;BE;"Meat indigenous, geese";1077;Meat;m3/ton;0
+France;68;FR;"Meat indigenous, geese";1077;Meat;m3/ton;0
+Germany;79;DE;"Meat indigenous, geese";1077;Meat;m3/ton;0
+Greece;84;GR;"Meat indigenous, geese";1077;Meat;m3/ton;0
+Hungary;97;HU;"Meat indigenous, geese";1077;Meat;m3/ton;0
+Italy;106;IT;"Meat indigenous, geese";1077;Meat;m3/ton;0
+Morocco;143;MA;"Meat indigenous, geese";1077;Meat;m3/ton;0
+Netherlands;150;NL;"Meat indigenous, geese";1077;Meat;m3/ton;0
+Poland;173;PL;"Meat indigenous, geese";1077;Meat;m3/ton;0
+Portugal;174;PT;"Meat indigenous, geese";1077;Meat;m3/ton;0
+Romania;183;RO;"Meat indigenous, geese";1077;Meat;m3/ton;0
+Serbia;272;RS;"Meat indigenous, geese";1077;Meat;m3/ton;0
+Spain;203;ES;"Meat indigenous, geese";1077;Meat;m3/ton;0
+Turkey;223;TR;"Meat indigenous, geese";1077;Meat;m3/ton;0
+Austria;11;AT;Turkeys;1079;"Live animals";m3/ton;0
+Belgium;255;BE;Turkeys;1079;"Live animals";m3/ton;0
+France;68;FR;Turkeys;1079;"Live animals";m3/ton;0
+Germany;79;DE;Turkeys;1079;"Live animals";m3/ton;0
+Greece;84;GR;Turkeys;1079;"Live animals";m3/ton;0
+Hungary;97;HU;Turkeys;1079;"Live animals";m3/ton;0
+Italy;106;IT;Turkeys;1079;"Live animals";m3/ton;0
+Morocco;143;MA;Turkeys;1079;"Live animals";m3/ton;0
+Netherlands;150;NL;Turkeys;1079;"Live animals";m3/ton;0
+Poland;173;PL;Turkeys;1079;"Live animals";m3/ton;0
+Portugal;174;PT;Turkeys;1079;"Live animals";m3/ton;0
+Romania;183;RO;Turkeys;1079;"Live animals";m3/ton;0
+Serbia;272;RS;Turkeys;1079;"Live animals";m3/ton;0
+Spain;203;ES;Turkeys;1079;"Live animals";m3/ton;0
+Turkey;223;TR;Turkeys;1079;"Live animals";m3/ton;0
+Austria;11;AT;"Turkey meat";1080;Meat;m3/ton;0
+Belgium;255;BE;"Turkey meat";1080;Meat;m3/ton;0
+France;68;FR;"Turkey meat";1080;Meat;m3/ton;0
+Germany;79;DE;"Turkey meat";1080;Meat;m3/ton;0
+Greece;84;GR;"Turkey meat";1080;Meat;m3/ton;0
+Hungary;97;HU;"Turkey meat";1080;Meat;m3/ton;0
+Italy;106;IT;"Turkey meat";1080;Meat;m3/ton;0
+Morocco;143;MA;"Turkey meat";1080;Meat;m3/ton;0
+Netherlands;150;NL;"Turkey meat";1080;Meat;m3/ton;0
+Poland;173;PL;"Turkey meat";1080;Meat;m3/ton;0
+Portugal;174;PT;"Turkey meat";1080;Meat;m3/ton;0
+Romania;183;RO;"Turkey meat";1080;Meat;m3/ton;0
+Serbia;272;RS;"Turkey meat";1080;Meat;m3/ton;0
+Spain;203;ES;"Turkey meat";1080;Meat;m3/ton;0
+Turkey;223;TR;"Turkey meat";1080;Meat;m3/ton;0
+Austria;11;AT;"Meat indigenous, bird nes";1084;Meat;m3/ton;0
+Belgium;255;BE;"Meat indigenous, bird nes";1084;Meat;m3/ton;0
+France;68;FR;"Meat indigenous, bird nes";1084;Meat;m3/ton;0
+Germany;79;DE;"Meat indigenous, bird nes";1084;Meat;m3/ton;0
+Greece;84;GR;"Meat indigenous, bird nes";1084;Meat;m3/ton;0
+Hungary;97;HU;"Meat indigenous, bird nes";1084;Meat;m3/ton;0
+Italy;106;IT;"Meat indigenous, bird nes";1084;Meat;m3/ton;0
+Morocco;143;MA;"Meat indigenous, bird nes";1084;Meat;m3/ton;0
+Netherlands;150;NL;"Meat indigenous, bird nes";1084;Meat;m3/ton;0
+Poland;173;PL;"Meat indigenous, bird nes";1084;Meat;m3/ton;0
+Portugal;174;PT;"Meat indigenous, bird nes";1084;Meat;m3/ton;0
+Romania;183;RO;"Meat indigenous, bird nes";1084;Meat;m3/ton;0
+Serbia;272;RS;"Meat indigenous, bird nes";1084;Meat;m3/ton;0
+Spain;203;ES;"Meat indigenous, bird nes";1084;Meat;m3/ton;0
+Turkey;223;TR;"Meat indigenous, bird nes";1084;Meat;m3/ton;0
+Austria;11;AT;"Meat indigenous, turkey";1087;Meat;m3/ton;0
+Belgium;255;BE;"Meat indigenous, turkey";1087;Meat;m3/ton;0
+France;68;FR;"Meat indigenous, turkey";1087;Meat;m3/ton;0
+Germany;79;DE;"Meat indigenous, turkey";1087;Meat;m3/ton;0
+Greece;84;GR;"Meat indigenous, turkey";1087;Meat;m3/ton;0
+Hungary;97;HU;"Meat indigenous, turkey";1087;Meat;m3/ton;0
+Italy;106;IT;"Meat indigenous, turkey";1087;Meat;m3/ton;0
+Morocco;143;MA;"Meat indigenous, turkey";1087;Meat;m3/ton;0
+Netherlands;150;NL;"Meat indigenous, turkey";1087;Meat;m3/ton;0
+Poland;173;PL;"Meat indigenous, turkey";1087;Meat;m3/ton;0
+Portugal;174;PT;"Meat indigenous, turkey";1087;Meat;m3/ton;0
+Romania;183;RO;"Meat indigenous, turkey";1087;Meat;m3/ton;0
+Serbia;272;RS;"Meat indigenous, turkey";1087;Meat;m3/ton;0
+Spain;203;ES;"Meat indigenous, turkey";1087;Meat;m3/ton;0
+Turkey;223;TR;"Meat indigenous, turkey";1087;Meat;m3/ton;0
+Austria;11;AT;"Meat, bird nes";1089;Meat;m3/ton;0
+Belgium;255;BE;"Meat, bird nes";1089;Meat;m3/ton;0
+France;68;FR;"Meat, bird nes";1089;Meat;m3/ton;0
+Germany;79;DE;"Meat, bird nes";1089;Meat;m3/ton;0
+Greece;84;GR;"Meat, bird nes";1089;Meat;m3/ton;0
+Hungary;97;HU;"Meat, bird nes";1089;Meat;m3/ton;0
+Italy;106;IT;"Meat, bird nes";1089;Meat;m3/ton;0
+Morocco;143;MA;"Meat, bird nes";1089;Meat;m3/ton;0
+Netherlands;150;NL;"Meat, bird nes";1089;Meat;m3/ton;0
+Poland;173;PL;"Meat, bird nes";1089;Meat;m3/ton;0
+Portugal;174;PT;"Meat, bird nes";1089;Meat;m3/ton;0
+Romania;183;RO;"Meat, bird nes";1089;Meat;m3/ton;0
+Serbia;272;RS;"Meat, bird nes";1089;Meat;m3/ton;0
+Spain;203;ES;"Meat, bird nes";1089;Meat;m3/ton;0
+Turkey;223;TR;"Meat, bird nes";1089;Meat;m3/ton;0
+Austria;11;AT;"Other bird eggs,in shell";1091;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Other bird eggs,in shell";1091;"Diary & Eggs";m3/ton;0
+France;68;FR;"Other bird eggs,in shell";1091;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Other bird eggs,in shell";1091;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Other bird eggs,in shell";1091;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Other bird eggs,in shell";1091;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Other bird eggs,in shell";1091;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Other bird eggs,in shell";1091;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Other bird eggs,in shell";1091;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Other bird eggs,in shell";1091;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Other bird eggs,in shell";1091;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Other bird eggs,in shell";1091;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Other bird eggs,in shell";1091;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Other bird eggs,in shell";1091;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Other bird eggs,in shell";1091;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Meat indigenous, chicken";1094;Meat;m3/ton;0
+Belgium;255;BE;"Meat indigenous, chicken";1094;Meat;m3/ton;0
+France;68;FR;"Meat indigenous, chicken";1094;Meat;m3/ton;0
+Germany;79;DE;"Meat indigenous, chicken";1094;Meat;m3/ton;0
+Greece;84;GR;"Meat indigenous, chicken";1094;Meat;m3/ton;0
+Hungary;97;HU;"Meat indigenous, chicken";1094;Meat;m3/ton;0
+Italy;106;IT;"Meat indigenous, chicken";1094;Meat;m3/ton;0
+Morocco;143;MA;"Meat indigenous, chicken";1094;Meat;m3/ton;0
+Netherlands;150;NL;"Meat indigenous, chicken";1094;Meat;m3/ton;0
+Poland;173;PL;"Meat indigenous, chicken";1094;Meat;m3/ton;0
+Portugal;174;PT;"Meat indigenous, chicken";1094;Meat;m3/ton;0
+Romania;183;RO;"Meat indigenous, chicken";1094;Meat;m3/ton;0
+Serbia;272;RS;"Meat indigenous, chicken";1094;Meat;m3/ton;0
+Spain;203;ES;"Meat indigenous, chicken";1094;Meat;m3/ton;0
+Turkey;223;TR;"Meat indigenous, chicken";1094;Meat;m3/ton;0
+Austria;11;AT;Horses;1096;"Live animals";m3/ton;0
+Belgium;255;BE;Horses;1096;"Live animals";m3/ton;0
+France;68;FR;Horses;1096;"Live animals";m3/ton;0
+Germany;79;DE;Horses;1096;"Live animals";m3/ton;0
+Greece;84;GR;Horses;1096;"Live animals";m3/ton;0
+Hungary;97;HU;Horses;1096;"Live animals";m3/ton;0
+Italy;106;IT;Horses;1096;"Live animals";m3/ton;0
+Morocco;143;MA;Horses;1096;"Live animals";m3/ton;0
+Netherlands;150;NL;Horses;1096;"Live animals";m3/ton;0
+Poland;173;PL;Horses;1096;"Live animals";m3/ton;0
+Portugal;174;PT;Horses;1096;"Live animals";m3/ton;0
+Romania;183;RO;Horses;1096;"Live animals";m3/ton;0
+Serbia;272;RS;Horses;1096;"Live animals";m3/ton;0
+Spain;203;ES;Horses;1096;"Live animals";m3/ton;0
+Turkey;223;TR;Horses;1096;"Live animals";m3/ton;0
+Austria;11;AT;"Horse meat";1097;Meat;m3/ton;0
+Belgium;255;BE;"Horse meat";1097;Meat;m3/ton;0
+France;68;FR;"Horse meat";1097;Meat;m3/ton;0
+Germany;79;DE;"Horse meat";1097;Meat;m3/ton;0
+Greece;84;GR;"Horse meat";1097;Meat;m3/ton;0
+Hungary;97;HU;"Horse meat";1097;Meat;m3/ton;0
+Italy;106;IT;"Horse meat";1097;Meat;m3/ton;0
+Morocco;143;MA;"Horse meat";1097;Meat;m3/ton;0
+Netherlands;150;NL;"Horse meat";1097;Meat;m3/ton;0
+Poland;173;PL;"Horse meat";1097;Meat;m3/ton;0
+Portugal;174;PT;"Horse meat";1097;Meat;m3/ton;0
+Romania;183;RO;"Horse meat";1097;Meat;m3/ton;0
+Serbia;272;RS;"Horse meat";1097;Meat;m3/ton;0
+Spain;203;ES;"Horse meat";1097;Meat;m3/ton;0
+Turkey;223;TR;"Horse meat";1097;Meat;m3/ton;0
+Austria;11;AT;Asses;1107;"Live animals";m3/ton;0
+Belgium;255;BE;Asses;1107;"Live animals";m3/ton;0
+France;68;FR;Asses;1107;"Live animals";m3/ton;0
+Germany;79;DE;Asses;1107;"Live animals";m3/ton;0
+Greece;84;GR;Asses;1107;"Live animals";m3/ton;0
+Hungary;97;HU;Asses;1107;"Live animals";m3/ton;0
+Italy;106;IT;Asses;1107;"Live animals";m3/ton;0
+Morocco;143;MA;Asses;1107;"Live animals";m3/ton;0
+Netherlands;150;NL;Asses;1107;"Live animals";m3/ton;0
+Poland;173;PL;Asses;1107;"Live animals";m3/ton;0
+Portugal;174;PT;Asses;1107;"Live animals";m3/ton;0
+Romania;183;RO;Asses;1107;"Live animals";m3/ton;0
+Serbia;272;RS;Asses;1107;"Live animals";m3/ton;0
+Spain;203;ES;Asses;1107;"Live animals";m3/ton;0
+Turkey;223;TR;Asses;1107;"Live animals";m3/ton;0
+Austria;11;AT;"Meat, ass";1108;Meat;m3/ton;0
+Belgium;255;BE;"Meat, ass";1108;Meat;m3/ton;0
+France;68;FR;"Meat, ass";1108;Meat;m3/ton;0
+Germany;79;DE;"Meat, ass";1108;Meat;m3/ton;0
+Greece;84;GR;"Meat, ass";1108;Meat;m3/ton;0
+Hungary;97;HU;"Meat, ass";1108;Meat;m3/ton;0
+Italy;106;IT;"Meat, ass";1108;Meat;m3/ton;0
+Morocco;143;MA;"Meat, ass";1108;Meat;m3/ton;0
+Netherlands;150;NL;"Meat, ass";1108;Meat;m3/ton;0
+Poland;173;PL;"Meat, ass";1108;Meat;m3/ton;0
+Portugal;174;PT;"Meat, ass";1108;Meat;m3/ton;0
+Romania;183;RO;"Meat, ass";1108;Meat;m3/ton;0
+Serbia;272;RS;"Meat, ass";1108;Meat;m3/ton;0
+Spain;203;ES;"Meat, ass";1108;Meat;m3/ton;0
+Turkey;223;TR;"Meat, ass";1108;Meat;m3/ton;0
+Austria;11;AT;Mules;1110;"Live animals";m3/ton;0
+Belgium;255;BE;Mules;1110;"Live animals";m3/ton;0
+France;68;FR;Mules;1110;"Live animals";m3/ton;0
+Germany;79;DE;Mules;1110;"Live animals";m3/ton;0
+Greece;84;GR;Mules;1110;"Live animals";m3/ton;0
+Hungary;97;HU;Mules;1110;"Live animals";m3/ton;0
+Italy;106;IT;Mules;1110;"Live animals";m3/ton;0
+Morocco;143;MA;Mules;1110;"Live animals";m3/ton;0
+Netherlands;150;NL;Mules;1110;"Live animals";m3/ton;0
+Poland;173;PL;Mules;1110;"Live animals";m3/ton;0
+Portugal;174;PT;Mules;1110;"Live animals";m3/ton;0
+Romania;183;RO;Mules;1110;"Live animals";m3/ton;0
+Serbia;272;RS;Mules;1110;"Live animals";m3/ton;0
+Spain;203;ES;Mules;1110;"Live animals";m3/ton;0
+Turkey;223;TR;Mules;1110;"Live animals";m3/ton;0
+Austria;11;AT;"Meat, mule";1111;Meat;m3/ton;0
+Belgium;255;BE;"Meat, mule";1111;Meat;m3/ton;0
+France;68;FR;"Meat, mule";1111;Meat;m3/ton;0
+Germany;79;DE;"Meat, mule";1111;Meat;m3/ton;0
+Greece;84;GR;"Meat, mule";1111;Meat;m3/ton;0
+Hungary;97;HU;"Meat, mule";1111;Meat;m3/ton;0
+Italy;106;IT;"Meat, mule";1111;Meat;m3/ton;0
+Morocco;143;MA;"Meat, mule";1111;Meat;m3/ton;0
+Netherlands;150;NL;"Meat, mule";1111;Meat;m3/ton;0
+Poland;173;PL;"Meat, mule";1111;Meat;m3/ton;0
+Portugal;174;PT;"Meat, mule";1111;Meat;m3/ton;0
+Romania;183;RO;"Meat, mule";1111;Meat;m3/ton;0
+Serbia;272;RS;"Meat, mule";1111;Meat;m3/ton;0
+Spain;203;ES;"Meat, mule";1111;Meat;m3/ton;0
+Turkey;223;TR;"Meat, mule";1111;Meat;m3/ton;0
+Austria;11;AT;"Meat indigenous, horse";1120;Meat;m3/ton;0
+Belgium;255;BE;"Meat indigenous, horse";1120;Meat;m3/ton;0
+France;68;FR;"Meat indigenous, horse";1120;Meat;m3/ton;0
+Germany;79;DE;"Meat indigenous, horse";1120;Meat;m3/ton;0
+Greece;84;GR;"Meat indigenous, horse";1120;Meat;m3/ton;0
+Hungary;97;HU;"Meat indigenous, horse";1120;Meat;m3/ton;0
+Italy;106;IT;"Meat indigenous, horse";1120;Meat;m3/ton;0
+Morocco;143;MA;"Meat indigenous, horse";1120;Meat;m3/ton;0
+Netherlands;150;NL;"Meat indigenous, horse";1120;Meat;m3/ton;0
+Poland;173;PL;"Meat indigenous, horse";1120;Meat;m3/ton;0
+Portugal;174;PT;"Meat indigenous, horse";1120;Meat;m3/ton;0
+Romania;183;RO;"Meat indigenous, horse";1120;Meat;m3/ton;0
+Serbia;272;RS;"Meat indigenous, horse";1120;Meat;m3/ton;0
+Spain;203;ES;"Meat indigenous, horse";1120;Meat;m3/ton;0
+Turkey;223;TR;"Meat indigenous, horse";1120;Meat;m3/ton;0
+Austria;11;AT;"Meat indigenous, ass";1122;Meat;m3/ton;0
+Belgium;255;BE;"Meat indigenous, ass";1122;Meat;m3/ton;0
+France;68;FR;"Meat indigenous, ass";1122;Meat;m3/ton;0
+Germany;79;DE;"Meat indigenous, ass";1122;Meat;m3/ton;0
+Greece;84;GR;"Meat indigenous, ass";1122;Meat;m3/ton;0
+Hungary;97;HU;"Meat indigenous, ass";1122;Meat;m3/ton;0
+Italy;106;IT;"Meat indigenous, ass";1122;Meat;m3/ton;0
+Morocco;143;MA;"Meat indigenous, ass";1122;Meat;m3/ton;0
+Netherlands;150;NL;"Meat indigenous, ass";1122;Meat;m3/ton;0
+Poland;173;PL;"Meat indigenous, ass";1122;Meat;m3/ton;0
+Portugal;174;PT;"Meat indigenous, ass";1122;Meat;m3/ton;0
+Romania;183;RO;"Meat indigenous, ass";1122;Meat;m3/ton;0
+Serbia;272;RS;"Meat indigenous, ass";1122;Meat;m3/ton;0
+Spain;203;ES;"Meat indigenous, ass";1122;Meat;m3/ton;0
+Turkey;223;TR;"Meat indigenous, ass";1122;Meat;m3/ton;0
+Austria;11;AT;"Meat indigenous, mule";1124;Meat;m3/ton;0
+Belgium;255;BE;"Meat indigenous, mule";1124;Meat;m3/ton;0
+France;68;FR;"Meat indigenous, mule";1124;Meat;m3/ton;0
+Germany;79;DE;"Meat indigenous, mule";1124;Meat;m3/ton;0
+Greece;84;GR;"Meat indigenous, mule";1124;Meat;m3/ton;0
+Hungary;97;HU;"Meat indigenous, mule";1124;Meat;m3/ton;0
+Italy;106;IT;"Meat indigenous, mule";1124;Meat;m3/ton;0
+Morocco;143;MA;"Meat indigenous, mule";1124;Meat;m3/ton;0
+Netherlands;150;NL;"Meat indigenous, mule";1124;Meat;m3/ton;0
+Poland;173;PL;"Meat indigenous, mule";1124;Meat;m3/ton;0
+Portugal;174;PT;"Meat indigenous, mule";1124;Meat;m3/ton;0
+Romania;183;RO;"Meat indigenous, mule";1124;Meat;m3/ton;0
+Serbia;272;RS;"Meat indigenous, mule";1124;Meat;m3/ton;0
+Spain;203;ES;"Meat indigenous, mule";1124;Meat;m3/ton;0
+Turkey;223;TR;"Meat indigenous, mule";1124;Meat;m3/ton;0
+Austria;11;AT;"Milk, whole fresh camel";1130;"Diary & Eggs";m3/ton;0
+Belgium;255;BE;"Milk, whole fresh camel";1130;"Diary & Eggs";m3/ton;0
+France;68;FR;"Milk, whole fresh camel";1130;"Diary & Eggs";m3/ton;0
+Germany;79;DE;"Milk, whole fresh camel";1130;"Diary & Eggs";m3/ton;0
+Greece;84;GR;"Milk, whole fresh camel";1130;"Diary & Eggs";m3/ton;0
+Hungary;97;HU;"Milk, whole fresh camel";1130;"Diary & Eggs";m3/ton;0
+Italy;106;IT;"Milk, whole fresh camel";1130;"Diary & Eggs";m3/ton;0
+Morocco;143;MA;"Milk, whole fresh camel";1130;"Diary & Eggs";m3/ton;0
+Netherlands;150;NL;"Milk, whole fresh camel";1130;"Diary & Eggs";m3/ton;0
+Poland;173;PL;"Milk, whole fresh camel";1130;"Diary & Eggs";m3/ton;0
+Portugal;174;PT;"Milk, whole fresh camel";1130;"Diary & Eggs";m3/ton;0
+Romania;183;RO;"Milk, whole fresh camel";1130;"Diary & Eggs";m3/ton;0
+Serbia;272;RS;"Milk, whole fresh camel";1130;"Diary & Eggs";m3/ton;0
+Spain;203;ES;"Milk, whole fresh camel";1130;"Diary & Eggs";m3/ton;0
+Turkey;223;TR;"Milk, whole fresh camel";1130;"Diary & Eggs";m3/ton;0
+Austria;11;AT;"Meat, game";1163;Meat;m3/ton;0
+Belgium;255;BE;"Meat, game";1163;Meat;m3/ton;0
+France;68;FR;"Meat, game";1163;Meat;m3/ton;0
+Germany;79;DE;"Meat, game";1163;Meat;m3/ton;0
+Greece;84;GR;"Meat, game";1163;Meat;m3/ton;0
+Hungary;97;HU;"Meat, game";1163;Meat;m3/ton;0
+Italy;106;IT;"Meat, game";1163;Meat;m3/ton;0
+Morocco;143;MA;"Meat, game";1163;Meat;m3/ton;0
+Netherlands;150;NL;"Meat, game";1163;Meat;m3/ton;0
+Poland;173;PL;"Meat, game";1163;Meat;m3/ton;0
+Portugal;174;PT;"Meat, game";1163;Meat;m3/ton;0
+Romania;183;RO;"Meat, game";1163;Meat;m3/ton;0
+Serbia;272;RS;"Meat, game";1163;Meat;m3/ton;0
+Spain;203;ES;"Meat, game";1163;Meat;m3/ton;0
+Turkey;223;TR;"Meat, game";1163;Meat;m3/ton;0
+Austria;11;AT;"Meat, dried nes";1164;Meat;m3/ton;0
+Belgium;255;BE;"Meat, dried nes";1164;Meat;m3/ton;0
+France;68;FR;"Meat, dried nes";1164;Meat;m3/ton;0
+Germany;79;DE;"Meat, dried nes";1164;Meat;m3/ton;0
+Greece;84;GR;"Meat, dried nes";1164;Meat;m3/ton;0
+Hungary;97;HU;"Meat, dried nes";1164;Meat;m3/ton;0
+Italy;106;IT;"Meat, dried nes";1164;Meat;m3/ton;0
+Morocco;143;MA;"Meat, dried nes";1164;Meat;m3/ton;0
+Netherlands;150;NL;"Meat, dried nes";1164;Meat;m3/ton;0
+Poland;173;PL;"Meat, dried nes";1164;Meat;m3/ton;0
+Portugal;174;PT;"Meat, dried nes";1164;Meat;m3/ton;0
+Romania;183;RO;"Meat, dried nes";1164;Meat;m3/ton;0
+Serbia;272;RS;"Meat, dried nes";1164;Meat;m3/ton;0
+Spain;203;ES;"Meat, dried nes";1164;Meat;m3/ton;0
+Turkey;223;TR;"Meat, dried nes";1164;Meat;m3/ton;0
+Austria;11;AT;"Meat, nes";1166;Meat;m3/ton;0
+Belgium;255;BE;"Meat, nes";1166;Meat;m3/ton;0
+France;68;FR;"Meat, nes";1166;Meat;m3/ton;0
+Germany;79;DE;"Meat, nes";1166;Meat;m3/ton;0
+Greece;84;GR;"Meat, nes";1166;Meat;m3/ton;0
+Hungary;97;HU;"Meat, nes";1166;Meat;m3/ton;0
+Italy;106;IT;"Meat, nes";1166;Meat;m3/ton;0
+Morocco;143;MA;"Meat, nes";1166;Meat;m3/ton;0
+Netherlands;150;NL;"Meat, nes";1166;Meat;m3/ton;0
+Poland;173;PL;"Meat, nes";1166;Meat;m3/ton;0
+Portugal;174;PT;"Meat, nes";1166;Meat;m3/ton;0
+Romania;183;RO;"Meat, nes";1166;Meat;m3/ton;0
+Serbia;272;RS;"Meat, nes";1166;Meat;m3/ton;0
+Spain;203;ES;"Meat, nes";1166;Meat;m3/ton;0
+Turkey;223;TR;"Meat, nes";1166;Meat;m3/ton;0
+Austria;11;AT;"Offals, nes";1167;Meat;m3/ton;0
+Belgium;255;BE;"Offals, nes";1167;Meat;m3/ton;0
+France;68;FR;"Offals, nes";1167;Meat;m3/ton;0
+Germany;79;DE;"Offals, nes";1167;Meat;m3/ton;0
+Greece;84;GR;"Offals, nes";1167;Meat;m3/ton;0
+Hungary;97;HU;"Offals, nes";1167;Meat;m3/ton;0
+Italy;106;IT;"Offals, nes";1167;Meat;m3/ton;0
+Morocco;143;MA;"Offals, nes";1167;Meat;m3/ton;0
+Netherlands;150;NL;"Offals, nes";1167;Meat;m3/ton;0
+Poland;173;PL;"Offals, nes";1167;Meat;m3/ton;0
+Portugal;174;PT;"Offals, nes";1167;Meat;m3/ton;0
+Romania;183;RO;"Offals, nes";1167;Meat;m3/ton;0
+Serbia;272;RS;"Offals, nes";1167;Meat;m3/ton;0
+Spain;203;ES;"Offals, nes";1167;Meat;m3/ton;0
+Turkey;223;TR;"Offals, nes";1167;Meat;m3/ton;0
+Austria;11;AT;"Oils, fats of animal nes";1168;Meat;m3/ton;0
+Belgium;255;BE;"Oils, fats of animal nes";1168;Meat;m3/ton;0
+France;68;FR;"Oils, fats of animal nes";1168;Meat;m3/ton;0
+Germany;79;DE;"Oils, fats of animal nes";1168;Meat;m3/ton;0
+Greece;84;GR;"Oils, fats of animal nes";1168;Meat;m3/ton;0
+Hungary;97;HU;"Oils, fats of animal nes";1168;Meat;m3/ton;0
+Italy;106;IT;"Oils, fats of animal nes";1168;Meat;m3/ton;0
+Morocco;143;MA;"Oils, fats of animal nes";1168;Meat;m3/ton;0
+Netherlands;150;NL;"Oils, fats of animal nes";1168;Meat;m3/ton;0
+Poland;173;PL;"Oils, fats of animal nes";1168;Meat;m3/ton;0
+Portugal;174;PT;"Oils, fats of animal nes";1168;Meat;m3/ton;0
+Romania;183;RO;"Oils, fats of animal nes";1168;Meat;m3/ton;0
+Serbia;272;RS;"Oils, fats of animal nes";1168;Meat;m3/ton;0
+Spain;203;ES;"Oils, fats of animal nes";1168;Meat;m3/ton;0
+Turkey;223;TR;"Oils, fats of animal nes";1168;Meat;m3/ton;0
+Austria;11;AT;"Meal, meat";1173;Meat;m3/ton;0
+Belgium;255;BE;"Meal, meat";1173;Meat;m3/ton;0
+France;68;FR;"Meal, meat";1173;Meat;m3/ton;0
+Germany;79;DE;"Meal, meat";1173;Meat;m3/ton;0
+Greece;84;GR;"Meal, meat";1173;Meat;m3/ton;0
+Hungary;97;HU;"Meal, meat";1173;Meat;m3/ton;0
+Italy;106;IT;"Meal, meat";1173;Meat;m3/ton;0
+Morocco;143;MA;"Meal, meat";1173;Meat;m3/ton;0
+Netherlands;150;NL;"Meal, meat";1173;Meat;m3/ton;0
+Poland;173;PL;"Meal, meat";1173;Meat;m3/ton;0
+Portugal;174;PT;"Meal, meat";1173;Meat;m3/ton;0
+Romania;183;RO;"Meal, meat";1173;Meat;m3/ton;0
+Serbia;272;RS;"Meal, meat";1173;Meat;m3/ton;0
+Spain;203;ES;"Meal, meat";1173;Meat;m3/ton;0
+Turkey;223;TR;"Meal, meat";1173;Meat;m3/ton;0
+Austria;11;AT;Tallow;1225;Meat;m3/ton;0
+Belgium;255;BE;Tallow;1225;Meat;m3/ton;0
+France;68;FR;Tallow;1225;Meat;m3/ton;0
+Germany;79;DE;Tallow;1225;Meat;m3/ton;0
+Greece;84;GR;Tallow;1225;Meat;m3/ton;0
+Hungary;97;HU;Tallow;1225;Meat;m3/ton;0
+Italy;106;IT;Tallow;1225;Meat;m3/ton;0
+Morocco;143;MA;Tallow;1225;Meat;m3/ton;0
+Netherlands;150;NL;Tallow;1225;Meat;m3/ton;0
+Poland;173;PL;Tallow;1225;Meat;m3/ton;0
+Portugal;174;PT;Tallow;1225;Meat;m3/ton;0
+Romania;183;RO;Tallow;1225;Meat;m3/ton;0
+Serbia;272;RS;Tallow;1225;Meat;m3/ton;0
+Spain;203;ES;Tallow;1225;Meat;m3/ton;0
+Turkey;223;TR;Tallow;1225;Meat;m3/ton;0

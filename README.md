@@ -18,7 +18,7 @@
 0. stat_joerg_allcrops.ipynb
 1. Task1b_Nagehan.ipynb
 2. task1_2_Nagehan .ipynb
-3. task3_5_uWF-rankings-portions_Joerg.ipynb
+3. task3_5_Miriam_rankings-portions.ipynb (old data cleaning), task3_5_uWF-rankings-portions_Joerg.ipynb (new data cleaning)
 4. task4_joerg_heatmap.ipynb
 5. task3_5_uWF-rankings-portions_Joerg.ipynb
 6. task_6_8_Fiona.ipynb
